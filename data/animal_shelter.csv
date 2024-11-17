@@ -1,0 +1,2849 @@
+outcome,animal_type,age,is_sterilized,sex,number_animals_in_shelter 
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.246575342,No,Male,8
+Adopted,short_hair_cat,1,Yes,Female,3
+Adopted,short_hair_cat,1,No,Male,6
+Adopted,short_hair_cat,0.082191781,No,Male,10
+Adopted,short_hair_cat,1,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,7,No,Male,10
+Adopted,short_hair_cat,0.246575342,Yes,Female,1
+Adopted,short_hair_cat,8,Yes,Female,12
+Adopted,short_hair_cat,8,Yes,Female,10
+Adopted,short_hair_cat,0.082191781,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.328767123,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,1,No,Male,9
+Adopted,short_hair_cat,8,No,Male,5
+Adopted,short_hair_cat,2,No,Male,2
+Adopted,short_hair_cat,0.082191781,Yes,Female,6
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,8
+Adopted,short_hair_cat,8,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,6,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,4
+Adopted,short_hair_cat,2,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.246575342,No,Male,12
+Adopted,short_hair_cat,0.082191781,No,Female,1
+Adopted,short_hair_cat,0.575342466,Yes,Female,9
+Adopted,short_hair_cat,0.328767123,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.246575342,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.328767123,Yes,Female,12
+Adopted,short_hair_cat,3,No,Male,5
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.164383562,No,Female,6
+Adopted,short_hair_cat,2,Yes,Female,12
+Adopted,short_hair_cat,0.246575342,No,Male,1
+Adopted,short_hair_cat,0.575342466,No,Male,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.082191781,No,Male,6
+Adopted,short_hair_cat,0.410958904,No,Male,1
+Adopted,short_hair_cat,0.246575342,No,Male,5
+Adopted,short_hair_cat,7,Yes,Female,11
+Adopted,short_hair_cat,0.328767123,Yes,Female,8
+Adopted,short_hair_cat,9,No,Male,12
+Adopted,short_hair_cat,16,Yes,Female,3
+Adopted,short_hair_cat,0.082191781,Yes,Female,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,2,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.657534247,Yes,Female,11
+Adopted,short_hair_cat,1,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,4,Yes,Female,11
+Adopted,short_hair_cat,3,No,Male,3
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,0.246575342,No,Male,7
+Adopted,short_hair_cat,1,No,Female,6
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.246575342,Yes,Female,8
+Adopted,short_hair_cat,0.410958904,No,Male,1
+Adopted,short_hair_cat,0.328767123,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,1,No,Male,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.082191781,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.246575342,No,Male,6
+Adopted,short_hair_cat,0.164383562,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,4
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,No,Male,10
+Adopted,short_hair_cat,0.493150685,Yes,Female,2
+Adopted,short_hair_cat,2,No,Male,6
+Adopted,short_hair_cat,3,Yes,Female,3
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,2,Yes,Female,7
+Adopted,short_hair_cat,0.328767123,No,Male,3
+Adopted,short_hair_cat,0.328767123,Yes,Female,12
+Adopted,short_hair_cat,2,Yes,Female,2
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,5
+Adopted,short_hair_cat,0.082191781,No,Male,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,2
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,1
+Adopted,short_hair_cat,6,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.410958904,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,2,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,8,No,Male,5
+Adopted,short_hair_cat,5,No,Male,2
+Adopted,short_hair_cat,1,No,Male,12
+Adopted,short_hair_cat,0.904109589,No,Male,11
+Adopted,short_hair_cat,6,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,2,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.246575342,No,Male,11
+Adopted,short_hair_cat,1,No,Male,3
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,4,Yes,Female,8
+Adopted,short_hair_cat,6,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,2,No,Male,12
+Adopted,short_hair_cat,0.493150685,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,1,No,Male,12
+Adopted,short_hair_cat,2,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.328767123,No,Male,8
+Adopted,short_hair_cat,8,No,Male,5
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,1,No,Male,9
+Adopted,short_hair_cat,5,No,Male,9
+Adopted,short_hair_cat,2,No,Male,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,11
+Adopted,short_hair_cat,0.328767123,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.246575342,No,Male,9
+Adopted,short_hair_cat,1,No,Male,2
+Adopted,short_hair_cat,0.493150685,Yes,Female,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,1
+Adopted,short_hair_cat,4,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,0.410958904,No,Male,11
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.246575342,No,Male,11
+Adopted,short_hair_cat,1,Yes,Female,10
+Adopted,short_hair_cat,4,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.739726027,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.657534247,Yes,Female,1
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,6,No,Male,1
+Adopted,short_hair_cat,2,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.246575342,No,Male,7
+Adopted,short_hair_cat,1,Yes,Female,6
+Adopted,short_hair_cat,0.410958904,No,Male,3
+Adopted,short_hair_cat,0.246575342,No,Male,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,1,Yes,Female,10
+Adopted,short_hair_cat,3,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.082191781,No,Male,6
+Adopted,short_hair_cat,0.493150685,No,Male,11
+Adopted,short_hair_cat,1,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,15,Yes,Female,3
+Adopted,short_hair_cat,0.164383562,Yes,Female,5
+Adopted,short_hair_cat,2,Yes,Female,3
+Adopted,short_hair_cat,3,No,Male,7
+Adopted,short_hair_cat,0.246575342,No,Male,9
+Adopted,short_hair_cat,3,No,Male,1
+Adopted,short_hair_cat,9,No,Male,9
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.246575342,No,Male,1
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.575342466,Yes,Female,9
+Adopted,short_hair_cat,0.739726027,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,6,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Female,5
+Adopted,short_hair_cat,0.575342466,Yes,Female,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,1,Yes,Female,1
+Adopted,short_hair_cat,0.246575342,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.246575342,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,7,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.328767123,Yes,Female,7
+Adopted,short_hair_cat,0.328767123,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,No,Male,9
+Adopted,short_hair_cat,3,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,8,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.410958904,No,Male,9
+Adopted,short_hair_cat,0.410958904,Yes,Female,10
+Adopted,short_hair_cat,5,No,Male,3
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,13,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,4,Yes,Female,4
+Adopted,short_hair_cat,0.082191781,No,Male,2
+Adopted,short_hair_cat,0.082191781,No,Female,6
+Adopted,short_hair_cat,3,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,1,No,Male,11
+Adopted,short_hair_cat,2,No,Male,6
+Adopted,short_hair_cat,0.493150685,No,Male,3
+Adopted,short_hair_cat,1,Yes,Female,1
+Adopted,short_hair_cat,0.410958904,Yes,Female,9
+Adopted,short_hair_cat,8,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,3,Yes,Female,10
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.082191781,Yes,Female,5
+Adopted,short_hair_cat,0.082191781,No,Male,8
+Adopted,short_hair_cat,1,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.246575342,Yes,Female,9
+Adopted,short_hair_cat,0.246575342,No,Male,11
+Adopted,short_hair_cat,6,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,2,Yes,Female,7
+Adopted,short_hair_cat,5,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,4,No,Male,5
+Adopted,short_hair_cat,1,Yes,Female,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.246575342,No,Male,7
+Adopted,short_hair_cat,7,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,Yes,Female,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,2,Yes,Female,7
+Adopted,short_hair_cat,0.410958904,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,1
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.328767123,No,Male,11
+Adopted,short_hair_cat,8,Yes,Female,2
+Adopted,short_hair_cat,0.410958904,No,Male,6
+Adopted,short_hair_cat,0.082191781,No,Male,7
+Adopted,short_hair_cat,5,No,Male,11
+Adopted,short_hair_cat,3,Yes,Female,10
+Adopted,short_hair_cat,0.246575342,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,12
+Adopted,short_hair_cat,0.821917808,No,Male,2
+Adopted,short_hair_cat,0.164383562,No,Female,6
+Adopted,short_hair_cat,0.410958904,Yes,Female,3
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.493150685,Yes,Female,3
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,2,Yes,Female,4
+Adopted,short_hair_cat,0.328767123,No,Male,11
+Adopted,short_hair_cat,0.739726027,Yes,Female,2
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,3,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Female,9
+Adopted,short_hair_cat,0.328767123,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,0.821917808,No,Male,2
+Adopted,short_hair_cat,0.575342466,Yes,Female,2
+Adopted,short_hair_cat,2,Yes,Female,12
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.082191781,No,Male,12
+Adopted,short_hair_cat,0.246575342,Yes,Female,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,8
+Adopted,short_hair_cat,0.328767123,Yes,Female,10
+Adopted,short_hair_cat,0.246575342,No,Male,8
+Adopted,short_hair_cat,0.082191781,No,Female,10
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Female,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,7,No,Male,4
+Adopted,short_hair_cat,0.246575342,Yes,Female,3
+Adopted,short_hair_cat,8,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.904109589,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,No,Male,12
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,11
+Adopted,short_hair_cat,10,Yes,Female,1
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.328767123,No,Male,1
+Adopted,short_hair_cat,0.246575342,No,Male,7
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,8,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.164383562,No,Male,4
+Adopted,short_hair_cat,0.246575342,No,Male,11
+Adopted,short_hair_cat,0.246575342,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,5,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,3,Yes,Female,10
+Adopted,short_hair_cat,0.082191781,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,0.164383562,No,Male,10
+Adopted,short_hair_cat,1,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,4,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,2,No,Male,9
+Adopted,short_hair_cat,0.821917808,No,Male,3
+Adopted,short_hair_cat,0.246575342,No,Male,8
+Adopted,short_hair_cat,1,Yes,Female,3
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,3,No,Male,1
+Adopted,short_hair_cat,0.082191781,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.164383562,Yes,Female,4
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,1,Yes,Female,5
+Adopted,short_hair_cat,0.493150685,Yes,Female,1
+Adopted,short_hair_cat,2,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,1,No,Male,6
+Adopted,short_hair_cat,0.164383562,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,1,Yes,Female,11
+Adopted,short_hair_cat,1,No,Male,5
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,5,No,Male,5
+Adopted,short_hair_cat,0.410958904,Yes,Female,8
+Adopted,short_hair_cat,1,No,Male,10
+Adopted,short_hair_cat,5,No,Male,3
+Adopted,short_hair_cat,0.164383562,Yes,Female,8
+Adopted,short_hair_cat,1,No,Male,6
+Adopted,short_hair_cat,0.164383562,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,Yes,Female,11
+Adopted,short_hair_cat,0.410958904,Yes,Female,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,0.410958904,No,Male,8
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Male,8
+Adopted,short_hair_cat,0.904109589,Yes,Female,1
+Adopted,short_hair_cat,5,Yes,Female,8
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Adopted,short_hair_cat,0.493150685,No,Male,11
+Adopted,short_hair_cat,0.164383562,No,Male,9
+Adopted,short_hair_cat,0.164383562,Yes,Female,1
+Adopted,short_hair_cat,0.082191781,No,Male,7
+Adopted,short_hair_cat,0.328767123,Yes,Female,11
+Adopted,short_hair_cat,1,No,Male,11
+Adopted,short_hair_cat,0.657534247,Yes,Female,2
+Adopted,short_hair_cat,8,Yes,Female,12
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.164383562,No,Male,5
+Adopted,short_hair_cat,1,Yes,Female,2
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,3,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,1
+Adopted,short_hair_cat,2,No,Male,6
+Adopted,short_hair_cat,0.082191781,Yes,Female,6
+Adopted,short_hair_cat,0.246575342,Yes,Female,3
+Adopted,short_hair_cat,0.246575342,Yes,Female,12
+Adopted,short_hair_cat,13,Yes,Female,5
+Adopted,short_hair_cat,0.164383562,No,Female,10
+Adopted,short_hair_cat,0.164383562,No,Male,6
+Adopted,short_hair_cat,7,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,10
+Adopted,short_hair_cat,0.164383562,No,Male,11
+Adopted,short_hair_cat,2,Yes,Female,12
+Adopted,short_hair_cat,2,No,Male,6
+Adopted,short_hair_cat,0.082191781,Yes,Female,8
+Adopted,short_hair_cat,0.082191781,Yes,Female,11
+Adopted,short_hair_cat,0.164383562,No,Male,5
+Adopted,short_hair_cat,1,Yes,Female,3
+Adopted,short_hair_cat,0.164383562,Yes,Female,1
+Adopted,short_hair_cat,0.082191781,Yes,Female,4
+Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Adopted,short_hair_cat,0.164383562,No,Male,7
+Adopted,short_hair_cat,0.246575342,No,Male,9
+Adopted,short_hair_cat,1,Yes,Female,7
+Adopted,short_hair_cat,0.164383562,Yes,Female,2
+Adopted,long_hair_cat,0.246575342,No,Male,2
+Adopted,long_hair_cat,0.328767123,No,Male,3
+Adopted,long_hair_cat,0.164383562,Yes,Female,4
+Adopted,long_hair_cat,0.246575342,Yes,Female,2
+Adopted,long_hair_cat,0.657534247,No,Male,1
+Adopted,long_hair_cat,0.164383562,No,Male,2
+Adopted,long_hair_cat,3,Yes,Female,3
+Adopted,long_hair_cat,0.164383562,No,Male,4
+Adopted,long_hair_cat,1,No,Male,1
+Adopted,long_hair_cat,0.164383562,No,Male,2
+Adopted,long_hair_cat,0.246575342,No,Male,3
+Adopted,long_hair_cat,6,No,Male,4
+Adopted,long_hair_cat,0.164383562,No,Male,7
+Adopted,long_hair_cat,10,Yes,Female,3
+Adopted,long_hair_cat,0.164383562,No,Male,6
+Adopted,long_hair_cat,0.493150685,No,Male,3
+Adopted,long_hair_cat,0.164383562,Yes,Female,11
+Adopted,long_hair_cat,0.164383562,Yes,Female,12
+Adopted,long_hair_cat,0.246575342,No,Male,10
+Adopted,long_hair_cat,2,Yes,Female,6
+Adopted,long_hair_cat,14,Yes,Female,7
+Adopted,long_hair_cat,0.246575342,No,Male,11
+Adopted,long_hair_cat,0.164383562,No,Male,7
+Adopted,long_hair_cat,0.246575342,Yes,Female,8
+Adopted,long_hair_cat,0.328767123,Yes,Female,7
+Adopted,long_hair_cat,0.164383562,Yes,Female,5
+Adopted,long_hair_cat,0.164383562,No,Male,1
+Adopted,long_hair_cat,1,No,Male,3
+Adopted,long_hair_cat,0.164383562,No,Male,2
+Adopted,long_hair_cat,2,Yes,Female,7
+Adopted,long_hair_cat,0.164383562,No,Male,12
+Adopted,long_hair_cat,0.246575342,No,Male,2
+Adopted,long_hair_cat,0.575342466,Yes,Female,5
+Adopted,long_hair_cat,0.246575342,Yes,Female,10
+Adopted,long_hair_cat,0.082191781,No,Male,5
+Adopted,long_hair_cat,0.246575342,Yes,Female,1
+Adopted,large_dog,3,No,Female,5
+Adopted,large_dog,0.328767123,Yes,Female,2
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,2,Yes,Female,3
+Adopted,large_dog,1,Yes,Female,4
+Adopted,large_dog,4,No,Male,5
+Adopted,large_dog,4,No,Male,10
+Adopted,large_dog,6,Yes,Female,2
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,0.575342466,No,Male,11
+Adopted,large_dog,8,No,Male,12
+Adopted,large_dog,0.821917808,Yes,Female,8
+Adopted,large_dog,9,No,Male,6
+Adopted,large_dog,2,Yes,Female,3
+Adopted,large_dog,3,Yes,Female,8
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,0.164383562,No,Male,1
+Adopted,large_dog,0.410958904,Yes,Female,9
+Adopted,large_dog,3,Yes,Female,10
+Adopted,large_dog,2,Yes,Female,4
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,No,Male,4
+Adopted,large_dog,4,Yes,Female,3
+Adopted,large_dog,0.082191781,No,Male,5
+Adopted,large_dog,0.164383562,Yes,Female,8
+Adopted,large_dog,0.575342466,No,Male,8
+Adopted,large_dog,0.821917808,Yes,Female,3
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,0.410958904,No,Male,5
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,6,Yes,Female,6
+Adopted,large_dog,0.164383562,Yes,Female,7
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,2,No,Male,8
+Adopted,large_dog,0.328767123,Yes,Female,2
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,2,Yes,Female,10
+Adopted,large_dog,1,Yes,Female,12
+Adopted,large_dog,6,No,Male,5
+Adopted,large_dog,0.164383562,Yes,Female,8
+Adopted,large_dog,0.082191781,Yes,Female,3
+Adopted,large_dog,3,Yes,Female,4
+Adopted,large_dog,0.575342466,Yes,Female,11
+Adopted,large_dog,0.410958904,Yes,Female,5
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,10,No,Male,11
+Adopted,large_dog,0.575342466,Yes,Female,10
+Adopted,large_dog,2,Yes,Female,1
+Adopted,large_dog,0.575342466,Yes,Female,7
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,3,Yes,Female,1
+Adopted,large_dog,4,No,Male,5
+Adopted,large_dog,12,No,Male,6
+Adopted,large_dog,5,No,Male,3
+Adopted,large_dog,0.164383562,Yes,Female,10
+Adopted,large_dog,0.904109589,Yes,Female,11
+Adopted,large_dog,0.821917808,No,Male,2
+Adopted,large_dog,4,No,Male,7
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,0.821917808,No,Male,3
+Adopted,large_dog,5,No,Male,2
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,0.575342466,No,Male,11
+Adopted,large_dog,1,Yes,Female,4
+Adopted,large_dog,2,No,Male,5
+Adopted,large_dog,5,Yes,Female,9
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,0.328767123,No,Male,7
+Adopted,large_dog,0.493150685,No,Male,6
+Adopted,large_dog,5,No,Male,11
+Adopted,large_dog,4,No,Male,5
+Adopted,large_dog,4,Yes,Female,7
+Adopted,large_dog,0.082191781,No,Male,3
+Adopted,large_dog,0.164383562,Yes,Female,3
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,7,Yes,Female,12
+Adopted,large_dog,0.821917808,No,Male,10
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.246575342,Yes,Female,8
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,2
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,0.164383562,No,Male,1
+Adopted,large_dog,0.246575342,No,Male,7
+Adopted,large_dog,0.082191781,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,10,Yes,Female,6
+Adopted,large_dog,12,No,Male,2
+Adopted,large_dog,3,Yes,Female,3
+Adopted,large_dog,5,No,Male,1
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,2,Yes,Female,10
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,2,Yes,Female,1
+Adopted,large_dog,3,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,8
+Adopted,large_dog,0.493150685,No,Male,10
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,8
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.246575342,No,Male,1
+Adopted,large_dog,0.328767123,No,Male,10
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,8,Yes,Female,2
+Adopted,large_dog,2,Yes,Female,4
+Adopted,large_dog,6,Yes,Female,3
+Adopted,large_dog,0.575342466,Yes,Female,2
+Adopted,large_dog,0.493150685,No,Male,6
+Adopted,large_dog,5,Yes,Female,11
+Adopted,large_dog,7,Yes,Female,2
+Adopted,large_dog,0.164383562,No,Male,4
+Adopted,large_dog,0.164383562,Yes,Female,12
+Adopted,large_dog,1,No,Male,7
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,0.164383562,Yes,Female,7
+Adopted,large_dog,0.739726027,No,Male,2
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,0.657534247,Yes,Female,5
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,4,No,Male,7
+Adopted,large_dog,0.821917808,No,Male,2
+Adopted,large_dog,0.657534247,Yes,Female,6
+Adopted,large_dog,3,No,Male,11
+Adopted,large_dog,3,No,Male,5
+Adopted,large_dog,2,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,2,No,Male,8
+Adopted,large_dog,0.410958904,No,Male,9
+Adopted,large_dog,6,No,Male,3
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,0.821917808,No,Male,12
+Adopted,large_dog,0.164383562,No,Male,9
+Adopted,large_dog,0.164383562,No,Male,7
+Adopted,large_dog,0.164383562,Yes,Female,10
+Adopted,large_dog,1,No,Male,7
+Adopted,large_dog,0.821917808,No,Male,12
+Adopted,large_dog,0.082191781,Yes,Female,11
+Adopted,large_dog,0.082191781,No,Male,5
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,0.410958904,No,Male,3
+Adopted,large_dog,0.821917808,Yes,Female,9
+Adopted,large_dog,3,No,Male,4
+Adopted,large_dog,2,Yes,Female,9
+Adopted,large_dog,1,No,Male,4
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,5,No,Male,5
+Adopted,large_dog,1,Yes,Female,9
+Adopted,large_dog,1,Yes,Female,1
+Adopted,large_dog,0.657534247,Yes,Female,3
+Adopted,large_dog,2,No,Male,11
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,0.904109589,Yes,Female,5
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,No,Male,9
+Adopted,large_dog,0.082191781,Yes,Female,7
+Adopted,large_dog,10,No,Male,1
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,8,Yes,Female,7
+Adopted,large_dog,3,No,Male,10
+Adopted,large_dog,0.082191781,No,Male,8
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,8,Yes,Female,5
+Adopted,large_dog,2,No,Male,8
+Adopted,large_dog,3,No,Male,11
+Adopted,large_dog,0.246575342,Yes,Female,10
+Adopted,large_dog,5,No,Male,4
+Adopted,large_dog,2,No,Male,4
+Adopted,large_dog,4,No,Male,6
+Adopted,large_dog,2,Yes,Female,2
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,5,No,Male,4
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,4,No,Male,10
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,8,No,Male,9
+Adopted,large_dog,0.246575342,No,Male,7
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,0.164383562,No,Male,6
+Adopted,large_dog,0.575342466,Yes,Female,10
+Adopted,large_dog,0.164383562,Yes,Female,6
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,3,Yes,Female,9
+Adopted,large_dog,2,No,Male,5
+Adopted,large_dog,0.164383562,No,Male,7
+Adopted,large_dog,5,Yes,Female,2
+Adopted,large_dog,1,Yes,Female,1
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,6,Yes,Female,11
+Adopted,large_dog,0.082191781,Yes,Female,6
+Adopted,large_dog,2,No,Female,9
+Adopted,large_dog,0.082191781,Yes,Female,6
+Adopted,large_dog,0.164383562,No,Male,6
+Adopted,large_dog,0.246575342,No,Male,4
+Adopted,large_dog,1,Yes,Female,1
+Adopted,large_dog,0.164383562,Yes,Female,9
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,2,No,Male,4
+Adopted,large_dog,4,No,Male,2
+Adopted,large_dog,2,Yes,Female,4
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,0.657534247,No,Male,10
+Adopted,large_dog,1,No,Male,2
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,8,Yes,Female,7
+Adopted,large_dog,0.246575342,No,Male,8
+Adopted,large_dog,2,No,Male,5
+Adopted,large_dog,0.328767123,No,Male,6
+Adopted,large_dog,2,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,12
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,4,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,2,No,Male,11
+Adopted,large_dog,9,Yes,Female,3
+Adopted,large_dog,0.410958904,No,Male,1
+Adopted,large_dog,0.164383562,No,Female,1
+Adopted,large_dog,3,No,Male,5
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,6,No,Male,2
+Adopted,large_dog,3,No,Male,11
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.821917808,Yes,Female,11
+Adopted,large_dog,2,No,Male,11
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,3,No,Male,1
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.904109589,Yes,Female,5
+Adopted,large_dog,0.739726027,Yes,Female,3
+Adopted,large_dog,3,No,Male,7
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,0.657534247,Yes,Female,10
+Adopted,large_dog,0.164383562,Yes,Female,11
+Adopted,large_dog,0.410958904,Yes,Female,10
+Adopted,large_dog,5,Yes,Female,3
+Adopted,large_dog,8,Yes,Female,3
+Adopted,large_dog,1,Yes,Female,1
+Adopted,large_dog,3,No,Male,12
+Adopted,large_dog,6,Yes,Female,10
+Adopted,large_dog,3,Yes,Female,12
+Adopted,large_dog,6,Yes,Female,6
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,4,No,Male,5
+Adopted,large_dog,0.246575342,Yes,Female,8
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,2,No,Male,2
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,2,No,Male,5
+Adopted,large_dog,10,No,Male,8
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,4,No,Male,12
+Adopted,large_dog,12,No,Male,2
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,13,No,Male,10
+Adopted,large_dog,0.493150685,Yes,Female,7
+Adopted,large_dog,2,No,Male,6
+Adopted,large_dog,6,No,Male,4
+Adopted,large_dog,0.246575342,Yes,Female,10
+Adopted,large_dog,2,Yes,Female,2
+Adopted,large_dog,4,No,Male,3
+Adopted,large_dog,3,No,Male,5
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,5,Yes,Female,9
+Adopted,large_dog,4,No,Male,3
+Adopted,large_dog,4,No,Male,4
+Adopted,large_dog,1,No,Male,4
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,2,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.328767123,Yes,Female,7
+Adopted,large_dog,7,Yes,Female,2
+Adopted,large_dog,0.164383562,No,Male,1
+Adopted,large_dog,0.164383562,Yes,Female,7
+Adopted,large_dog,0.246575342,Yes,Female,6
+Adopted,large_dog,0.575342466,No,Male,9
+Adopted,large_dog,0.821917808,Yes,Female,5
+Adopted,large_dog,1,No,Male,2
+Adopted,large_dog,0.410958904,No,Male,10
+Adopted,large_dog,0.493150685,No,Male,12
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,0.082191781,Yes,Female,3
+Adopted,large_dog,6,Yes,Female,2
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,5,No,Male,2
+Adopted,large_dog,0.328767123,No,Male,4
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,2,No,Male,2
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,3,Yes,Female,1
+Adopted,large_dog,0.410958904,No,Male,6
+Adopted,large_dog,0.904109589,Yes,Female,6
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.164383562,Yes,Female,12
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,0.246575342,Yes,Female,11
+Adopted,large_dog,2,Yes,Female,5
+Adopted,large_dog,3,Yes,Female,9
+Adopted,large_dog,0.082191781,Yes,Female,4
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,1,Yes,Female,6
+Adopted,large_dog,0.904109589,No,Male,8
+Adopted,large_dog,2,Yes,Female,6
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,2,Yes,Female,3
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,0.164383562,Yes,Female,6
+Adopted,large_dog,2,Yes,Female,9
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,3,Yes,Female,6
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,3,Yes,Female,9
+Adopted,large_dog,0.904109589,Yes,Female,8
+Adopted,large_dog,0.082191781,Yes,Female,6
+Adopted,large_dog,3,Yes,Female,8
+Adopted,large_dog,0.657534247,Yes,Female,9
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,0.739726027,No,Male,8
+Adopted,large_dog,12,Yes,Female,9
+Adopted,large_dog,0.328767123,Yes,Female,8
+Adopted,large_dog,2,No,Male,6
+Adopted,large_dog,0.328767123,No,Male,9
+Adopted,large_dog,1,Yes,Female,5
+Adopted,large_dog,4,Yes,Female,12
+Adopted,large_dog,3,Yes,Female,12
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,4,Yes,Female,11
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,0.904109589,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,5
+Adopted,large_dog,0.082191781,No,Male,7
+Adopted,large_dog,0.164383562,Yes,Female,4
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,9,No,Male,9
+Adopted,large_dog,0.821917808,No,Male,5
+Adopted,large_dog,0.164383562,Yes,Female,11
+Adopted,large_dog,0.246575342,Yes,Female,4
+Adopted,large_dog,9,Yes,Female,11
+Adopted,large_dog,6,Yes,Female,8
+Adopted,large_dog,3,Yes,Female,10
+Adopted,large_dog,0.246575342,Yes,Female,1
+Adopted,large_dog,1,No,Male,4
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,0.410958904,Yes,Female,3
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,1,Yes,Female,5
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,0.410958904,Yes,Female,11
+Adopted,large_dog,0.493150685,No,Male,6
+Adopted,large_dog,0.164383562,Yes,Female,7
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,0.410958904,Yes,Female,5
+Adopted,large_dog,0.082191781,Yes,Female,2
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,3,Yes,Female,8
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,5,Yes,Female,2
+Adopted,large_dog,0.082191781,No,Male,2
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,0.328767123,No,Male,9
+Adopted,large_dog,1,No,Male,7
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,8,No,Male,11
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,0.082191781,Yes,Female,4
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,3
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,0.246575342,No,Male,7
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,4,No,Male,5
+Adopted,large_dog,8,Yes,Female,11
+Adopted,large_dog,6,No,Male,5
+Adopted,large_dog,0.164383562,Yes,Female,9
+Adopted,large_dog,7,No,Male,10
+Adopted,large_dog,0.082191781,Yes,Female,8
+Adopted,large_dog,6,No,Male,5
+Adopted,large_dog,3,No,Male,3
+Adopted,large_dog,0.164383562,Yes,Female,10
+Adopted,large_dog,0.739726027,No,Male,8
+Adopted,large_dog,0.164383562,No,Male,8
+Adopted,large_dog,3,Yes,Female,2
+Adopted,large_dog,5,No,Male,10
+Adopted,large_dog,0.164383562,No,Female,5
+Adopted,large_dog,5,Yes,Female,2
+Adopted,large_dog,9,No,Male,10
+Adopted,large_dog,0.164383562,No,Male,7
+Adopted,large_dog,0.164383562,No,Male,7
+Adopted,large_dog,0.739726027,Yes,Female,1
+Adopted,large_dog,0.328767123,No,Male,1
+Adopted,large_dog,6,No,Male,7
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,1,No,Male,7
+Adopted,large_dog,0.328767123,No,Male,3
+Adopted,large_dog,6,No,Male,7
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,2,Yes,Female,5
+Adopted,large_dog,2,No,Male,6
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,0.164383562,Yes,Female,3
+Adopted,large_dog,10,No,Male,1
+Adopted,large_dog,8,Yes,Female,10
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,3,Yes,Female,1
+Adopted,large_dog,2,Yes,Female,4
+Adopted,large_dog,0.328767123,No,Male,4
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,0.328767123,No,Male,9
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,0.164383562,No,Male,9
+Adopted,large_dog,5,No,Male,2
+Adopted,large_dog,1,Yes,Female,9
+Adopted,large_dog,0.164383562,Yes,Female,2
+Adopted,large_dog,0.739726027,Yes,Female,3
+Adopted,large_dog,0.082191781,No,Male,11
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,0.821917808,No,Male,12
+Adopted,large_dog,5,No,Male,2
+Adopted,large_dog,3,No,Male,7
+Adopted,large_dog,2,No,Male,9
+Adopted,large_dog,0.164383562,Yes,Female,4
+Adopted,large_dog,6,No,Male,9
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,No,Male,6
+Adopted,large_dog,0.246575342,No,Male,11
+Adopted,large_dog,1,Yes,Female,5
+Adopted,large_dog,2,Yes,Female,10
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,5,Yes,Female,9
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,0.821917808,Yes,Female,2
+Adopted,large_dog,0.575342466,No,Male,5
+Adopted,large_dog,0.164383562,Yes,Female,6
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,0.164383562,No,Male,3
+Adopted,large_dog,0.246575342,No,Male,7
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,2,No,Male,11
+Adopted,large_dog,1,No,Male,6
+Adopted,large_dog,2,Yes,Female,5
+Adopted,large_dog,1,Yes,Female,8
+Adopted,large_dog,0.493150685,No,Male,5
+Adopted,large_dog,0.657534247,Yes,Female,3
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,1,Yes,Female,6
+Adopted,large_dog,0.164383562,Yes,Female,8
+Adopted,large_dog,0.657534247,No,Male,9
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,2,Yes,Female,2
+Adopted,large_dog,0.328767123,No,Male,1
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,3,Yes,Female,1
+Adopted,large_dog,0.493150685,Yes,Female,5
+Adopted,large_dog,7,No,Male,6
+Adopted,large_dog,2,No,Male,5
+Adopted,large_dog,2,Yes,Female,10
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,No,Male,1
+Adopted,large_dog,6,No,Male,12
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,4,No,Male,6
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,2,No,Male,7
+Adopted,large_dog,4,No,Male,1
+Adopted,large_dog,0.575342466,Yes,Female,12
+Adopted,large_dog,0.904109589,No,Male,7
+Adopted,large_dog,2,Yes,Female,6
+Adopted,large_dog,0.493150685,No,Male,8
+Adopted,large_dog,6,Yes,Female,2
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,0.082191781,No,Male,1
+Adopted,large_dog,3,No,Male,1
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,8,No,Male,12
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,0.082191781,Yes,Female,12
+Adopted,large_dog,0.739726027,Yes,Female,1
+Adopted,large_dog,1,No,Male,2
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,2
+Adopted,large_dog,2,Yes,Female,9
+Adopted,large_dog,2,Yes,Female,4
+Adopted,large_dog,0.246575342,No,Male,8
+Adopted,large_dog,0.410958904,No,Male,11
+Adopted,large_dog,0.410958904,No,Male,5
+Adopted,large_dog,3,No,Male,8
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,0.246575342,No,Male,1
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,0.821917808,No,Male,12
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,0.328767123,Yes,Female,12
+Adopted,large_dog,9,No,Male,3
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,7,Yes,Female,12
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,12,Yes,Female,9
+Adopted,large_dog,10,Yes,Female,7
+Adopted,large_dog,0.164383562,No,Male,5
+Adopted,large_dog,0.164383562,No,Male,9
+Adopted,large_dog,0.164383562,No,Male,3
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,5,No,Male,1
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,5,No,Male,7
+Adopted,large_dog,9,No,Male,1
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.821917808,No,Male,5
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,Yes,Female,12
+Adopted,large_dog,2,Yes,Female,10
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,4,No,Male,6
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,2,No,Male,9
+Adopted,large_dog,2,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,0.082191781,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,12
+Adopted,large_dog,0.164383562,No,Male,9
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,0.164383562,No,Male,1
+Adopted,large_dog,0.164383562,No,Male,2
+Adopted,large_dog,0.328767123,Yes,Female,7
+Adopted,large_dog,1,No,Male,11
+Adopted,large_dog,8,No,Male,8
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,3,No,Female,8
+Adopted,large_dog,3,No,Male,9
+Adopted,large_dog,8,Yes,Female,9
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,0.657534247,No,Male,7
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,12,No,Male,1
+Adopted,large_dog,2,Yes,Female,2
+Adopted,large_dog,1,No,Male,10
+Adopted,large_dog,0.082191781,Yes,Female,8
+Adopted,large_dog,1,Yes,Female,2
+Adopted,large_dog,6,No,Male,7
+Adopted,large_dog,0.821917808,No,Male,3
+Adopted,large_dog,0.164383562,Yes,Female,5
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,2,No,Male,6
+Adopted,large_dog,0.410958904,No,Male,7
+Adopted,large_dog,0.493150685,Yes,Female,2
+Adopted,large_dog,5,Yes,Female,6
+Adopted,large_dog,0.164383562,No,Male,12
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,6,No,Male,2
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,0.246575342,Yes,Female,12
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,2,No,Male,3
+Adopted,large_dog,0.164383562,No,Male,10
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,0.164383562,Yes,Female,4
+Adopted,large_dog,1,No,Female,1
+Adopted,large_dog,3,Yes,Female,1
+Adopted,large_dog,0.246575342,No,Male,7
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,8,Yes,Female,4
+Adopted,large_dog,0.739726027,No,Male,3
+Adopted,large_dog,0.328767123,No,Male,10
+Adopted,large_dog,0.493150685,No,Male,1
+Adopted,large_dog,0.082191781,Yes,Female,6
+Adopted,large_dog,0.082191781,Yes,Female,2
+Adopted,large_dog,2,Yes,Female,9
+Adopted,large_dog,0.328767123,No,Male,8
+Adopted,large_dog,0.164383562,No,Male,12
+Adopted,large_dog,0.904109589,No,Male,5
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,0.821917808,No,Male,1
+Adopted,large_dog,5,Yes,Female,11
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,0.082191781,No,Male,10
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,0.164383562,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,0.493150685,Yes,Female,2
+Adopted,large_dog,0.493150685,No,Male,12
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,No,Male,12
+Adopted,large_dog,1,No,Male,1
+Adopted,large_dog,0.246575342,No,Male,3
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,2,Yes,Female,8
+Adopted,large_dog,3,Yes,Female,5
+Adopted,large_dog,4,No,Male,8
+Adopted,large_dog,8,No,Male,1
+Adopted,large_dog,5,Yes,Female,5
+Adopted,large_dog,2,Yes,Female,1
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,4,Yes,Female,7
+Adopted,large_dog,0.493150685,No,Male,9
+Adopted,large_dog,0.328767123,Yes,Female,9
+Adopted,large_dog,0.493150685,Yes,Female,3
+Adopted,large_dog,0.493150685,Yes,Female,5
+Adopted,large_dog,0.082191781,No,Male,10
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,2,No,Male,4
+Adopted,large_dog,0.164383562,Yes,Female,11
+Adopted,large_dog,1,Yes,Female,3
+Adopted,large_dog,2,No,Male,10
+Adopted,large_dog,3,Yes,Female,2
+Adopted,large_dog,1,Yes,Female,7
+Adopted,large_dog,5,No,Male,10
+Adopted,large_dog,0.657534247,Yes,Female,12
+Adopted,large_dog,9,Yes,Female,9
+Adopted,large_dog,0.821917808,No,Male,11
+Adopted,large_dog,1,Yes,Female,10
+Adopted,large_dog,1,No,Male,5
+Adopted,large_dog,0.164383562,No,Male,3
+Adopted,large_dog,0.821917808,No,Male,1
+Adopted,large_dog,1,No,Male,3
+Adopted,large_dog,0.493150685,Yes,Female,10
+Adopted,large_dog,2,Yes,Female,9
+Adopted,large_dog,6,No,Male,8
+Adopted,large_dog,0.821917808,No,Male,6
+Adopted,large_dog,2,No,Male,9
+Adopted,large_dog,2,No,Male,4
+Adopted,large_dog,0.575342466,No,Male,12
+Adopted,large_dog,10,No,Male,8
+Adopted,large_dog,2,No,Male,12
+Adopted,large_dog,1,No,Male,2
+Adopted,large_dog,0.410958904,Yes,Female,10
+Adopted,large_dog,8,Yes,Female,5
+Adopted,large_dog,2,Yes,Female,7
+Adopted,large_dog,0.575342466,Yes,Female,10
+Adopted,large_dog,1,No,Male,8
+Adopted,large_dog,0.821917808,No,Male,7
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,1,No,Male,9
+Adopted,large_dog,1,Yes,Female,11
+Adopted,large_dog,1,No,Male,4
+Adopted,large_dog,1,Yes,Female,12
+Adopted,large_dog,2,Yes,Female,12
+Adopted,large_dog,2,No,Male,1
+Adopted,large_dog,1,Yes,Female,1
+Adopted,large_dog,3,No,Male,8
+Adopted,small_dog,0.164383562,Yes,Female,3
+Adopted,small_dog,3,No,Male,6
+Adopted,small_dog,1,No,Male,2
+Adopted,small_dog,0.575342466,Yes,Female,4
+Adopted,small_dog,0.821917808,Yes,Female,2
+Adopted,small_dog,0.657534247,Yes,Female,1
+Adopted,small_dog,0.657534247,No,Male,8
+Adopted,small_dog,0.164383562,No,Female,8
+Adopted,small_dog,3,Yes,Female,12
+Adopted,small_dog,2,Yes,Female,6
+Adopted,small_dog,1,No,Male,3
+Adopted,small_dog,1,No,Male,5
+Adopted,small_dog,2,No,Male,12
+Adopted,small_dog,0.246575342,No,Male,6
+Adopted,small_dog,2,No,Male,7
+Adopted,small_dog,1,No,Male,11
+Adopted,small_dog,14,Yes,Female,4
+Adopted,small_dog,0.082191781,No,Male,6
+Adopted,small_dog,0.082191781,Yes,Female,12
+Adopted,small_dog,3,Yes,Female,3
+Adopted,small_dog,5,No,Male,1
+Adopted,small_dog,0.575342466,Yes,Female,7
+Adopted,small_dog,0.821917808,No,Male,10
+Adopted,small_dog,6,No,Male,12
+Adopted,small_dog,2,No,Male,11
+Adopted,small_dog,2,Yes,Female,11
+Adopted,small_dog,4,Yes,Female,1
+Adopted,small_dog,0.657534247,No,Male,8
+Adopted,small_dog,2,No,Male,10
+Adopted,small_dog,0.246575342,No,Male,5
+Adopted,small_dog,0.575342466,Yes,Female,9
+Adopted,small_dog,0.410958904,No,Male,7
+Adopted,small_dog,1,No,Male,8
+Adopted,small_dog,1,No,Male,4
+Adopted,small_dog,0.164383562,No,Male,3
+Adopted,small_dog,2,No,Male,3
+Adopted,small_dog,0.575342466,No,Male,9
+Adopted,small_dog,0.164383562,No,Male,6
+Adopted,small_dog,1,Yes,Female,10
+Adopted,small_dog,0.493150685,No,Male,2
+Adopted,small_dog,0.493150685,No,Male,12
+Adopted,small_dog,0.164383562,No,Male,1
+Adopted,small_dog,3,Yes,Female,1
+Adopted,small_dog,1,Yes,Female,4
+Adopted,small_dog,0.164383562,Yes,Female,10
+Adopted,small_dog,0.493150685,Yes,Female,2
+Adopted,small_dog,5,No,Male,12
+Adopted,small_dog,0.821917808,No,Male,7
+Adopted,small_dog,1,No,Male,3
+Adopted,small_dog,1,No,Male,2
+Adopted,small_dog,0.493150685,No,Male,8
+Adopted,small_dog,2,Yes,Female,12
+Adopted,small_dog,0.164383562,No,Male,2
+Adopted,small_dog,1,Yes,Female,5
+Adopted,small_dog,1,No,Male,1
+Adopted,small_dog,0.328767123,Yes,Female,10
+Adopted,small_dog,2,Yes,Female,1
+Adopted,small_dog,0.904109589,Yes,Female,2
+Adopted,small_dog,2,No,Male,11
+Adopted,small_dog,11,No,Male,8
+Adopted,small_dog,0.739726027,No,Female,11
+Adopted,small_dog,5,No,Male,9
+Adopted,small_dog,1,No,Male,5
+Adopted,small_dog,0.575342466,Yes,Female,7
+Adopted,small_dog,2,Yes,Female,7
+Adopted,small_dog,3,Yes,Female,2
+Adopted,small_dog,0.246575342,Yes,Female,7
+Adopted,small_dog,1,Yes,Female,2
+Adopted,small_dog,1,Yes,Female,1
+Adopted,small_dog,0.164383562,No,Male,8
+Adopted,small_dog,0.493150685,No,Male,1
+Adopted,small_dog,3,Yes,Female,1
+Adopted,small_dog,2,No,Male,2
+Adopted,small_dog,5,No,Male,10
+Adopted,small_dog,3,No,Male,1
+Adopted,small_dog,2,Yes,Female,9
+Adopted,small_dog,7,No,Male,3
+Adopted,small_dog,0.164383562,No,Male,4
+Adopted,small_dog,12,No,Male,7
+Adopted,small_dog,1,No,Male,8
+Adopted,small_dog,1,No,Male,6
+Adopted,small_dog,0.410958904,No,Male,7
+Adopted,small_dog,4,Yes,Female,11
+Adopted,small_dog,0.739726027,Yes,Female,3
+Adopted,small_dog,1,No,Male,8
+Adopted,small_dog,8,Yes,Female,12
+Adopted,small_dog,2,No,Male,3
+Adopted,small_dog,1,No,Male,10
+Adopted,small_dog,1,Yes,Female,12
+Adopted,small_dog,0.328767123,Yes,Female,12
+Adopted,small_dog,2,Yes,Female,1
+Adopted,small_dog,0.082191781,No,Female,1
+Adopted,small_dog,6,No,Male,1
+Adopted,small_dog,4,No,Male,9
+Adopted,small_dog,1,No,Male,11
+Adopted,small_dog,1,No,Male,10
+Adopted,small_dog,2,No,Male,12
+Adopted,small_dog,1,Yes,Female,10
+Adopted,small_dog,0.493150685,Yes,Female,6
+Adopted,small_dog,0.410958904,Yes,Female,7
+Adopted,small_dog,2,Yes,Female,2
+Adopted,small_dog,1,Yes,Female,9
+Adopted,small_dog,0.164383562,Yes,Female,6
+Adopted,small_dog,3,No,Male,2
+Adopted,small_dog,0.164383562,Yes,Female,3
+Adopted,small_dog,0.657534247,Yes,Female,9
+Adopted,small_dog,0.410958904,Yes,Female,1
+Adopted,small_dog,5,Yes,Female,10
+Adopted,small_dog,0.739726027,Yes,Female,1
+Adopted,small_dog,1,Yes,Female,5
+Adopted,small_dog,3,No,Male,7
+Adopted,small_dog,2,Yes,Female,12
+Adopted,small_dog,2,Yes,Female,2
+Adopted,small_dog,1,Yes,Female,2
+Adopted,small_dog,0.164383562,Yes,Female,1
+Adopted,small_dog,1,Yes,Female,8
+Adopted,small_dog,0.410958904,Yes,Female,11
+Adopted,small_dog,1,No,Male,3
+Adopted,small_dog,0.082191781,No,Male,7
+Adopted,small_dog,0.164383562,No,Male,6
+Adopted,small_dog,0.082191781,Yes,Female,3
+Adopted,small_dog,2,Yes,Female,3
+Adopted,small_dog,0.493150685,Yes,Female,6
+Adopted,small_dog,1,No,Male,3
+Adopted,small_dog,2,Yes,Female,1
+Adopted,small_dog,1,Yes,Female,2
+Adopted,small_dog,0.410958904,No,Male,2
+Adopted,small_dog,1,No,Male,10
+Adopted,small_dog,0.328767123,Yes,Female,12
+Adopted,small_dog,3,No,Male,3
+Adopted,small_dog,1,Yes,Female,8
+Adopted,small_dog,1,No,Male,4
+Adopted,small_dog,3,Yes,Female,9
+Adopted,small_dog,0.575342466,No,Male,10
+Adopted,small_dog,6,No,Male,3
+Adopted,small_dog,1,Yes,Female,5
+Not Adopted,short_hair_cat,0.038356164,No,Female,11
+Not Adopted,short_hair_cat,0.164383562,No,Male,11
+Not Adopted,short_hair_cat,0.057534247,No,Female,10
+Not Adopted,short_hair_cat,4,Yes,Female,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,8
+Not Adopted,short_hair_cat,7,No,Female,7
+Not Adopted,short_hair_cat,0.005479452,No,Female,9
+Not Adopted,short_hair_cat,0.019178082,No,Male,5
+Not Adopted,short_hair_cat,1,No,Female,10
+Not Adopted,short_hair_cat,2,No,Male,4
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,0.328767123,No,Female,3
+Not Adopted,short_hair_cat,0.410958904,No,Male,1
+Not Adopted,short_hair_cat,10,Yes,Female,12
+Not Adopted,short_hair_cat,0.164383562,No,Male,10
+Not Adopted,short_hair_cat,14,No,Male,4
+Not Adopted,short_hair_cat,0.076712329,No,Female,5
+Not Adopted,short_hair_cat,1,Yes,Female,3
+Not Adopted,short_hair_cat,6,Yes,Female,8
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,0.038356164,No,Male,6
+Not Adopted,short_hair_cat,0.005479452,No,Female,5
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,1,No,Female,4
+Not Adopted,short_hair_cat,0.082191781,No,Female,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,8
+Not Adopted,short_hair_cat,0.016438356,No,Male,8
+Not Adopted,short_hair_cat,0.246575342,No,Male,9
+Not Adopted,short_hair_cat,3,No,Male,4
+Not Adopted,short_hair_cat,0.038356164,No,Male,5
+Not Adopted,short_hair_cat,0.904109589,No,Male,11
+Not Adopted,short_hair_cat,2,No,Male,7
+Not Adopted,short_hair_cat,0.076712329,No,Female,5
+Not Adopted,short_hair_cat,0.038356164,No,Female,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,10
+Not Adopted,short_hair_cat,0.575342466,Yes,Female,11
+Not Adopted,short_hair_cat,2,No,Male,2
+Not Adopted,short_hair_cat,4,No,Male,11
+Not Adopted,short_hair_cat,0.493150685,Yes,Female,11
+Not Adopted,short_hair_cat,1,Yes,Female,10
+Not Adopted,short_hair_cat,0.082191781,No,Female,11
+Not Adopted,short_hair_cat,2,No,Male,11
+Not Adopted,short_hair_cat,0.328767123,No,Male,1
+Not Adopted,short_hair_cat,5,Yes,Female,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,10
+Not Adopted,short_hair_cat,0.082191781,No,Female,8
+Not Adopted,short_hair_cat,0.038356164,No,Male,9
+Not Adopted,short_hair_cat,6,No,Male,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,4
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,1,No,Female,2
+Not Adopted,short_hair_cat,2,Yes,Female,1
+Not Adopted,short_hair_cat,0.057534247,No,Female,6
+Not Adopted,short_hair_cat,0.739726027,Yes,Female,1
+Not Adopted,short_hair_cat,2,No,Male,12
+Not Adopted,short_hair_cat,1,No,Male,11
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,7
+Not Adopted,short_hair_cat,0,No,Male,6
+Not Adopted,short_hair_cat,5,Yes,Female,11
+Not Adopted,short_hair_cat,0.246575342,No,Female,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.164383562,No,Female,8
+Not Adopted,short_hair_cat,0.01369863,No,Male,5
+Not Adopted,short_hair_cat,2,Yes,Female,10
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,1,No,Male,4
+Not Adopted,short_hair_cat,0.057534247,No,Male,7
+Not Adopted,short_hair_cat,0.038356164,No,Male,11
+Not Adopted,short_hair_cat,15,No,Male,11
+Not Adopted,short_hair_cat,0.164383562,No,Male,6
+Not Adopted,short_hair_cat,0.038356164,No,Female,7
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,0.246575342,No,Male,8
+Not Adopted,short_hair_cat,0.038356164,No,Male,11
+Not Adopted,short_hair_cat,2,No,Male,9
+Not Adopted,short_hair_cat,2,No,Male,3
+Not Adopted,short_hair_cat,1,No,Female,2
+Not Adopted,short_hair_cat,0.246575342,No,Male,8
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,8
+Not Adopted,short_hair_cat,3,Yes,Female,9
+Not Adopted,short_hair_cat,8,Yes,Female,4
+Not Adopted,short_hair_cat,1,No,Male,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,2,No,Male,2
+Not Adopted,short_hair_cat,0.246575342,No,Male,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,5
+Not Adopted,short_hair_cat,0.410958904,No,Male,7
+Not Adopted,short_hair_cat,2,No,Male,3
+Not Adopted,short_hair_cat,8,No,Male,12
+Not Adopted,short_hair_cat,1,Yes,Female,7
+Not Adopted,short_hair_cat,0.038356164,No,Female,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,9
+Not Adopted,short_hair_cat,0.008219178,No,Male,8
+Not Adopted,short_hair_cat,0.057534247,No,Male,7
+Not Adopted,short_hair_cat,2,Yes,Female,10
+Not Adopted,short_hair_cat,8,No,Male,2
+Not Adopted,short_hair_cat,0.076712329,No,Male,6
+Not Adopted,short_hair_cat,0.328767123,Yes,Female,1
+Not Adopted,short_hair_cat,0.575342466,No,Male,10
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,4,No,Female,5
+Not Adopted,short_hair_cat,10,No,Male,3
+Not Adopted,short_hair_cat,0.002739726,No,Male,6
+Not Adopted,short_hair_cat,16,No,Male,4
+Not Adopted,short_hair_cat,0.328767123,No,Female,7
+Not Adopted,short_hair_cat,3,Yes,Female,1
+Not Adopted,short_hair_cat,1,No,Male,9
+Not Adopted,short_hair_cat,0.164383562,No,Female,9
+Not Adopted,short_hair_cat,3,No,Male,12
+Not Adopted,short_hair_cat,1,No,Male,12
+Not Adopted,short_hair_cat,3,No,Male,3
+Not Adopted,short_hair_cat,0.076712329,No,Male,7
+Not Adopted,short_hair_cat,0.164383562,No,Male,11
+Not Adopted,short_hair_cat,2,Yes,Female,9
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,1,No,Male,7
+Not Adopted,short_hair_cat,0.057534247,No,Female,11
+Not Adopted,short_hair_cat,0.019178082,No,Male,8
+Not Adopted,short_hair_cat,0.002739726,No,Male,10
+Not Adopted,short_hair_cat,1,No,Female,3
+Not Adopted,short_hair_cat,0.057534247,No,Female,9
+Not Adopted,short_hair_cat,2,Yes,Female,1
+Not Adopted,short_hair_cat,2,No,Male,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,7
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,0.575342466,Yes,Female,5
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,0.410958904,No,Female,1
+Not Adopted,short_hair_cat,13,Yes,Female,8
+Not Adopted,short_hair_cat,0.019178082,No,Male,6
+Not Adopted,short_hair_cat,0.076712329,No,Female,5
+Not Adopted,short_hair_cat,2,No,Male,11
+Not Adopted,short_hair_cat,0.008219178,No,Male,6
+Not Adopted,short_hair_cat,0.904109589,No,Male,4
+Not Adopted,short_hair_cat,0.246575342,No,Male,8
+Not Adopted,short_hair_cat,3,No,Male,11
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,1,No,Female,5
+Not Adopted,short_hair_cat,2,No,Female,5
+Not Adopted,short_hair_cat,0.246575342,No,Male,12
+Not Adopted,short_hair_cat,9,No,Male,9
+Not Adopted,short_hair_cat,1,No,Female,2
+Not Adopted,short_hair_cat,3,No,Male,4
+Not Adopted,short_hair_cat,5,No,Male,6
+Not Adopted,short_hair_cat,0.076712329,No,Female,6
+Not Adopted,short_hair_cat,2,Yes,Female,12
+Not Adopted,short_hair_cat,12,No,Male,10
+Not Adopted,short_hair_cat,0.038356164,No,Male,10
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,1,No,Female,5
+Not Adopted,short_hair_cat,0.057534247,No,Male,9
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.082191781,No,Female,5
+Not Adopted,short_hair_cat,2,Yes,Female,5
+Not Adopted,short_hair_cat,2,Yes,Female,1
+Not Adopted,short_hair_cat,0.493150685,No,Female,1
+Not Adopted,short_hair_cat,0.019178082,No,Male,7
+Not Adopted,short_hair_cat,0.008219178,No,Male,4
+Not Adopted,short_hair_cat,7,No,Male,10
+Not Adopted,short_hair_cat,2,Yes,Female,4
+Not Adopted,short_hair_cat,0.076712329,No,Female,10
+Not Adopted,short_hair_cat,8,No,Male,3
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,3,Yes,Female,11
+Not Adopted,short_hair_cat,10,Yes,Female,6
+Not Adopted,short_hair_cat,8,Yes,Female,11
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,0.493150685,Yes,Female,9
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,0.076712329,No,Male,5
+Not Adopted,short_hair_cat,0,No,Male,4
+Not Adopted,short_hair_cat,0.038356164,No,Male,9
+Not Adopted,short_hair_cat,0.904109589,No,Female,3
+Not Adopted,short_hair_cat,0.164383562,No,Male,10
+Not Adopted,short_hair_cat,8,No,Male,3
+Not Adopted,short_hair_cat,0.057534247,No,Male,12
+Not Adopted,short_hair_cat,2,Yes,Female,12
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,6,No,Male,2
+Not Adopted,short_hair_cat,0.410958904,No,Male,9
+Not Adopted,short_hair_cat,0.246575342,No,Female,6
+Not Adopted,short_hair_cat,0.038356164,No,Male,8
+Not Adopted,short_hair_cat,0.076712329,No,Male,8
+Not Adopted,short_hair_cat,1,No,Female,10
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,0.410958904,No,Male,12
+Not Adopted,short_hair_cat,0.410958904,No,Female,6
+Not Adopted,short_hair_cat,1,No,Male,8
+Not Adopted,short_hair_cat,0.038356164,No,Male,7
+Not Adopted,short_hair_cat,0.076712329,No,Female,10
+Not Adopted,short_hair_cat,0.076712329,No,Male,1
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,2,No,Male,5
+Not Adopted,short_hair_cat,0.019178082,No,Male,3
+Not Adopted,short_hair_cat,0.002739726,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.038356164,No,Male,8
+Not Adopted,short_hair_cat,0.057534247,No,Male,8
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,0.038356164,No,Male,5
+Not Adopted,short_hair_cat,1,Yes,Female,9
+Not Adopted,short_hair_cat,0.575342466,Yes,Female,11
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,12,No,Female,1
+Not Adopted,short_hair_cat,0.019178082,No,Male,4
+Not Adopted,short_hair_cat,9,No,Male,2
+Not Adopted,short_hair_cat,0.082191781,No,Female,12
+Not Adopted,short_hair_cat,11,Yes,Female,6
+Not Adopted,short_hair_cat,1,No,Male,10
+Not Adopted,short_hair_cat,8,No,Male,4
+Not Adopted,short_hair_cat,5,Yes,Female,12
+Not Adopted,short_hair_cat,0.010958904,No,Male,7
+Not Adopted,short_hair_cat,0.164383562,No,Male,6
+Not Adopted,short_hair_cat,3,No,Male,4
+Not Adopted,short_hair_cat,2,Yes,Female,5
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,0.038356164,No,Male,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,5
+Not Adopted,short_hair_cat,2,No,Male,10
+Not Adopted,short_hair_cat,0.008219178,No,Male,4
+Not Adopted,short_hair_cat,10,No,Male,8
+Not Adopted,short_hair_cat,0.164383562,No,Female,10
+Not Adopted,short_hair_cat,10,Yes,Female,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,6
+Not Adopted,short_hair_cat,0.493150685,No,Male,2
+Not Adopted,short_hair_cat,0.328767123,No,Male,1
+Not Adopted,short_hair_cat,20,Yes,Female,9
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,1,Yes,Female,10
+Not Adopted,short_hair_cat,0.164383562,No,Male,7
+Not Adopted,short_hair_cat,0.057534247,No,Male,8
+Not Adopted,short_hair_cat,0.010958904,No,Male,6
+Not Adopted,short_hair_cat,8,No,Male,1
+Not Adopted,short_hair_cat,0.076712329,No,Female,9
+Not Adopted,short_hair_cat,0.493150685,No,Female,11
+Not Adopted,short_hair_cat,0.076712329,No,Male,7
+Not Adopted,short_hair_cat,0.164383562,No,Male,7
+Not Adopted,short_hair_cat,0.739726027,No,Female,10
+Not Adopted,short_hair_cat,0.493150685,Yes,Female,11
+Not Adopted,short_hair_cat,8,No,Male,11
+Not Adopted,short_hair_cat,0.821917808,No,Female,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,4
+Not Adopted,short_hair_cat,0.076712329,No,Female,5
+Not Adopted,short_hair_cat,0.002739726,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Female,8
+Not Adopted,short_hair_cat,0.008219178,No,Male,4
+Not Adopted,short_hair_cat,0.493150685,No,Female,3
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,0.082191781,No,Female,10
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,0.038356164,No,Male,8
+Not Adopted,short_hair_cat,1,No,Male,8
+Not Adopted,short_hair_cat,2,No,Male,3
+Not Adopted,short_hair_cat,0.657534247,No,Male,2
+Not Adopted,short_hair_cat,3,No,Male,1
+Not Adopted,short_hair_cat,0.038356164,No,Male,4
+Not Adopted,short_hair_cat,0.008219178,No,Female,10
+Not Adopted,short_hair_cat,8,No,Female,8
+Not Adopted,short_hair_cat,10,No,Female,6
+Not Adopted,short_hair_cat,1,Yes,Female,3
+Not Adopted,short_hair_cat,1,No,Female,2
+Not Adopted,short_hair_cat,0.057534247,No,Female,8
+Not Adopted,short_hair_cat,0.005479452,No,Male,5
+Not Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Not Adopted,short_hair_cat,0.246575342,No,Female,9
+Not Adopted,short_hair_cat,0.821917808,Yes,Female,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.019178082,No,Female,3
+Not Adopted,short_hair_cat,0.019178082,No,Male,9
+Not Adopted,short_hair_cat,0.019178082,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,0.821917808,Yes,Female,2
+Not Adopted,short_hair_cat,2,Yes,Female,12
+Not Adopted,short_hair_cat,3,No,Male,3
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,2,Yes,Female,8
+Not Adopted,short_hair_cat,2,No,Male,4
+Not Adopted,short_hair_cat,0.082191781,No,Female,5
+Not Adopted,short_hair_cat,1,No,Female,3
+Not Adopted,short_hair_cat,1,No,Male,9
+Not Adopted,short_hair_cat,1,No,Female,10
+Not Adopted,short_hair_cat,0.038356164,No,Female,10
+Not Adopted,short_hair_cat,0.076712329,No,Female,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,0.076712329,No,Male,1
+Not Adopted,short_hair_cat,0.019178082,No,Male,5
+Not Adopted,short_hair_cat,0.410958904,No,Male,9
+Not Adopted,short_hair_cat,1,Yes,Female,8
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,0.164383562,No,Female,8
+Not Adopted,short_hair_cat,3,No,Male,4
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,0.057534247,No,Female,8
+Not Adopted,short_hair_cat,8,Yes,Female,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,6
+Not Adopted,short_hair_cat,2,Yes,Female,7
+Not Adopted,short_hair_cat,0.082191781,No,Male,7
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,18,Yes,Female,1
+Not Adopted,short_hair_cat,2,No,Female,8
+Not Adopted,short_hair_cat,0.038356164,No,Male,12
+Not Adopted,short_hair_cat,3,Yes,Female,4
+Not Adopted,short_hair_cat,0.057534247,No,Male,10
+Not Adopted,short_hair_cat,0.019178082,No,Male,3
+Not Adopted,short_hair_cat,0.057534247,No,Male,10
+Not Adopted,short_hair_cat,0.076712329,No,Female,10
+Not Adopted,short_hair_cat,6,No,Male,3
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,0.005479452,No,Male,5
+Not Adopted,short_hair_cat,1,No,Male,2
+Not Adopted,short_hair_cat,0.057534247,No,Female,8
+Not Adopted,short_hair_cat,0.057534247,No,Male,8
+Not Adopted,short_hair_cat,0.082191781,No,Male,11
+Not Adopted,short_hair_cat,1,No,Male,2
+Not Adopted,short_hair_cat,0.038356164,No,Female,11
+Not Adopted,short_hair_cat,1,No,Female,12
+Not Adopted,short_hair_cat,1,No,Male,5
+Not Adopted,short_hair_cat,0.002739726,No,Male,5
+Not Adopted,short_hair_cat,0.076712329,No,Male,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,2,No,Female,4
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,0.739726027,No,Female,4
+Not Adopted,short_hair_cat,0.016438356,No,Male,6
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,2,Yes,Female,1
+Not Adopted,short_hair_cat,0.493150685,No,Female,9
+Not Adopted,short_hair_cat,0.657534247,No,Female,9
+Not Adopted,short_hair_cat,0.657534247,No,Female,12
+Not Adopted,short_hair_cat,0.076712329,No,Male,4
+Not Adopted,short_hair_cat,5,No,Male,1
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,5,Yes,Female,2
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,0.01369863,No,Male,7
+Not Adopted,short_hair_cat,0.164383562,No,Male,7
+Not Adopted,short_hair_cat,0.410958904,No,Female,8
+Not Adopted,short_hair_cat,0.246575342,No,Female,12
+Not Adopted,short_hair_cat,0.057534247,No,Male,10
+Not Adopted,short_hair_cat,2,No,Male,10
+Not Adopted,short_hair_cat,0.076712329,No,Female,8
+Not Adopted,short_hair_cat,2,No,Male,12
+Not Adopted,short_hair_cat,15,No,Male,4
+Not Adopted,short_hair_cat,0.057534247,No,Female,2
+Not Adopted,short_hair_cat,0.493150685,No,Male,5
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,3,No,Male,11
+Not Adopted,short_hair_cat,0.493150685,No,Male,9
+Not Adopted,short_hair_cat,0.493150685,No,Male,9
+Not Adopted,short_hair_cat,3,Yes,Female,6
+Not Adopted,short_hair_cat,1,No,Male,7
+Not Adopted,short_hair_cat,1,Yes,Female,11
+Not Adopted,short_hair_cat,0.821917808,Yes,Female,9
+Not Adopted,short_hair_cat,0.328767123,No,Male,8
+Not Adopted,short_hair_cat,2,No,Male,10
+Not Adopted,short_hair_cat,1,Yes,Female,3
+Not Adopted,short_hair_cat,0.164383562,No,Female,8
+Not Adopted,short_hair_cat,0.821917808,No,Female,10
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,6,No,Male,10
+Not Adopted,short_hair_cat,3,Yes,Female,8
+Not Adopted,short_hair_cat,0.019178082,No,Male,4
+Not Adopted,short_hair_cat,0.019178082,No,Female,9
+Not Adopted,short_hair_cat,0.016438356,No,Male,7
+Not Adopted,short_hair_cat,8,No,Male,7
+Not Adopted,short_hair_cat,0.038356164,No,Male,5
+Not Adopted,short_hair_cat,1,No,Female,6
+Not Adopted,short_hair_cat,3,No,Male,8
+Not Adopted,short_hair_cat,0.575342466,No,Male,11
+Not Adopted,short_hair_cat,2,No,Male,2
+Not Adopted,short_hair_cat,0.082191781,No,Male,5
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,0.019178082,No,Male,7
+Not Adopted,short_hair_cat,0.076712329,No,Male,6
+Not Adopted,short_hair_cat,0.739726027,No,Male,3
+Not Adopted,short_hair_cat,0.082191781,No,Female,11
+Not Adopted,short_hair_cat,1,No,Male,11
+Not Adopted,short_hair_cat,0.038356164,No,Male,10
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,1,No,Male,12
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,0.076712329,No,Female,10
+Not Adopted,short_hair_cat,5,No,Male,2
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,3,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,0.016438356,No,Male,3
+Not Adopted,short_hair_cat,1,No,Female,9
+Not Adopted,short_hair_cat,2,No,Male,1
+Not Adopted,short_hair_cat,1,No,Male,12
+Not Adopted,short_hair_cat,2,No,Male,5
+Not Adopted,short_hair_cat,0.657534247,Yes,Female,5
+Not Adopted,short_hair_cat,0.038356164,No,Male,7
+Not Adopted,short_hair_cat,1,No,Female,1
+Not Adopted,short_hair_cat,1,No,Male,10
+Not Adopted,short_hair_cat,3,No,Male,5
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,0.739726027,Yes,Female,4
+Not Adopted,short_hair_cat,0,No,Male,5
+Not Adopted,short_hair_cat,0.076712329,No,Female,5
+Not Adopted,short_hair_cat,3,Yes,Female,3
+Not Adopted,short_hair_cat,1,Yes,Female,3
+Not Adopted,short_hair_cat,13,No,Male,5
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,1,No,Male,7
+Not Adopted,short_hair_cat,0.038356164,No,Male,4
+Not Adopted,short_hair_cat,0.657534247,Yes,Female,6
+Not Adopted,short_hair_cat,2,No,Male,12
+Not Adopted,short_hair_cat,0.038356164,No,Female,6
+Not Adopted,short_hair_cat,0.057534247,No,Male,9
+Not Adopted,short_hair_cat,1,Yes,Female,9
+Not Adopted,short_hair_cat,0.038356164,No,Male,12
+Not Adopted,short_hair_cat,10,No,Male,2
+Not Adopted,short_hair_cat,4,Yes,Female,12
+Not Adopted,short_hair_cat,1,No,Male,11
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,0.076712329,No,Male,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,8
+Not Adopted,short_hair_cat,2,No,Female,10
+Not Adopted,short_hair_cat,0.008219178,No,Male,6
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,1,No,Female,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,4
+Not Adopted,short_hair_cat,0.575342466,No,Male,7
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,0.076712329,No,Male,12
+Not Adopted,short_hair_cat,0.575342466,No,Male,11
+Not Adopted,short_hair_cat,1,No,Male,5
+Not Adopted,short_hair_cat,0.019178082,No,Female,10
+Not Adopted,short_hair_cat,3,No,Male,6
+Not Adopted,short_hair_cat,0.076712329,No,Female,7
+Not Adopted,short_hair_cat,0.076712329,No,Male,5
+Not Adopted,short_hair_cat,1,No,Male,2
+Not Adopted,short_hair_cat,7,Yes,Female,5
+Not Adopted,short_hair_cat,0.082191781,No,Male,11
+Not Adopted,short_hair_cat,0.057534247,No,Male,8
+Not Adopted,short_hair_cat,0.164383562,Yes,Female,5
+Not Adopted,short_hair_cat,0.164383562,No,Male,9
+Not Adopted,short_hair_cat,0.493150685,No,Female,6
+Not Adopted,short_hair_cat,0.057534247,No,Male,5
+Not Adopted,short_hair_cat,0.164383562,No,Male,10
+Not Adopted,short_hair_cat,0.076712329,No,Female,9
+Not Adopted,short_hair_cat,0.246575342,No,Male,9
+Not Adopted,short_hair_cat,0.076712329,No,Female,8
+Not Adopted,short_hair_cat,0.328767123,No,Male,8
+Not Adopted,short_hair_cat,7,No,Male,8
+Not Adopted,short_hair_cat,2,No,Female,2
+Not Adopted,short_hair_cat,0.082191781,No,Male,10
+Not Adopted,short_hair_cat,0.008219178,No,Male,3
+Not Adopted,short_hair_cat,0.082191781,No,Male,10
+Not Adopted,short_hair_cat,0.082191781,No,Male,11
+Not Adopted,short_hair_cat,1,No,Male,9
+Not Adopted,short_hair_cat,1,No,Female,8
+Not Adopted,short_hair_cat,0.328767123,No,Male,10
+Not Adopted,short_hair_cat,0.076712329,No,Male,4
+Not Adopted,short_hair_cat,0.038356164,No,Female,7
+Not Adopted,short_hair_cat,3,No,Male,2
+Not Adopted,short_hair_cat,4,Yes,Female,12
+Not Adopted,short_hair_cat,2,No,Male,3
+Not Adopted,short_hair_cat,8,No,Male,9
+Not Adopted,short_hair_cat,2,No,Male,2
+Not Adopted,short_hair_cat,0.057534247,No,Male,6
+Not Adopted,short_hair_cat,0.164383562,No,Male,6
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,2,No,Male,7
+Not Adopted,short_hair_cat,0.057534247,No,Male,9
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,1,Yes,Female,1
+Not Adopted,short_hair_cat,1,No,Female,7
+Not Adopted,short_hair_cat,1,No,Male,10
+Not Adopted,short_hair_cat,5,Yes,Female,10
+Not Adopted,short_hair_cat,0.019178082,No,Male,4
+Not Adopted,short_hair_cat,0.082191781,No,Female,7
+Not Adopted,short_hair_cat,0.246575342,Yes,Female,1
+Not Adopted,short_hair_cat,0.164383562,No,Male,6
+Not Adopted,short_hair_cat,0.057534247,No,Female,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,7
+Not Adopted,short_hair_cat,0.164383562,No,Male,7
+Not Adopted,short_hair_cat,1,No,Male,3
+Not Adopted,short_hair_cat,1,No,Male,4
+Not Adopted,short_hair_cat,1,Yes,Female,6
+Not Adopted,short_hair_cat,0.019178082,No,Male,9
+Not Adopted,short_hair_cat,1,Yes,Female,6
+Not Adopted,short_hair_cat,0.246575342,No,Male,7
+Not Adopted,short_hair_cat,2,No,Male,5
+Not Adopted,short_hair_cat,2,No,Female,4
+Not Adopted,short_hair_cat,7,No,Male,5
+Not Adopted,short_hair_cat,5,No,Male,1
+Not Adopted,short_hair_cat,2,No,Male,5
+Not Adopted,short_hair_cat,0.038356164,No,Male,6
+Not Adopted,short_hair_cat,0.057534247,No,Female,8
+Not Adopted,short_hair_cat,9,No,Male,12
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,1,No,Male,1
+Not Adopted,short_hair_cat,0.057534247,No,Male,9
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,0.019178082,No,Male,6
+Not Adopted,short_hair_cat,0.005479452,No,Male,9
+Not Adopted,short_hair_cat,0.410958904,Yes,Female,3
+Not Adopted,short_hair_cat,0.019178082,No,Male,4
+Not Adopted,short_hair_cat,10,Yes,Female,1
+Not Adopted,short_hair_cat,0.076712329,No,Male,6
+Not Adopted,short_hair_cat,0.164383562,No,Male,7
+Not Adopted,short_hair_cat,3,Yes,Female,4
+Not Adopted,short_hair_cat,3,No,Male,12
+Not Adopted,short_hair_cat,0.082191781,No,Male,6
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,0.904109589,No,Male,3
+Not Adopted,short_hair_cat,0.164383562,No,Male,8
+Not Adopted,short_hair_cat,0.002739726,No,Male,4
+Not Adopted,short_hair_cat,1,No,Male,8
+Not Adopted,short_hair_cat,2,Yes,Female,2
+Not Adopted,short_hair_cat,1,Yes,Female,9
+Not Adopted,short_hair_cat,0.082191781,No,Female,10
+Not Adopted,short_hair_cat,3,Yes,Female,12
+Not Adopted,short_hair_cat,0.008219178,No,Male,5
+Not Adopted,short_hair_cat,0.038356164,No,Female,8
+Not Adopted,short_hair_cat,1,No,Male,8
+Not Adopted,short_hair_cat,0.082191781,No,Female,9
+Not Adopted,short_hair_cat,1,No,Female,3
+Not Adopted,short_hair_cat,1,No,Male,11
+Not Adopted,short_hair_cat,0.164383562,No,Female,10
+Not Adopted,short_hair_cat,5,Yes,Female,6
+Not Adopted,short_hair_cat,0.657534247,No,Female,1
+Not Adopted,short_hair_cat,2,No,Male,6
+Not Adopted,short_hair_cat,0.082191781,No,Male,8
+Not Adopted,short_hair_cat,0.057534247,No,Male,4
+Not Adopted,short_hair_cat,0.038356164,No,Male,4
+Not Adopted,short_hair_cat,0.057534247,No,Female,5
+Not Adopted,short_hair_cat,0.821917808,No,Male,11
+Not Adopted,short_hair_cat,1,Yes,Female,1
+Not Adopted,short_hair_cat,0.328767123,No,Female,8
+Not Adopted,short_hair_cat,1,No,Male,12
+Not Adopted,short_hair_cat,0.005479452,No,Male,10
+Not Adopted,short_hair_cat,0.410958904,Yes,Female,11
+Not Adopted,short_hair_cat,0.005479452,No,Male,5
+Not Adopted,short_hair_cat,0.657534247,Yes,Female,1
+Not Adopted,short_hair_cat,0.082191781,No,Female,6
+Not Adopted,short_hair_cat,0.164383562,No,Female,10
+Not Adopted,short_hair_cat,0.246575342,No,Female,7
+Not Adopted,short_hair_cat,7,No,Male,7
+Not Adopted,short_hair_cat,0.038356164,No,Female,6
+Not Adopted,short_hair_cat,2,No,Male,5
+Not Adopted,short_hair_cat,3,No,Male,11
+Not Adopted,short_hair_cat,0.005479452,No,Female,3
+Not Adopted,short_hair_cat,4,No,Male,5
+Not Adopted,short_hair_cat,0.019178082,No,Male,9
+Not Adopted,short_hair_cat,1,Yes,Female,8
+Not Adopted,short_hair_cat,0.410958904,No,Female,9
+Not Adopted,short_hair_cat,0.328767123,No,Male,8
+Not Adopted,short_hair_cat,0.082191781,No,Male,7
+Not Adopted,short_hair_cat,0.657534247,No,Male,11
+Not Adopted,short_hair_cat,0.164383562,Yes,Female,6
+Not Adopted,short_hair_cat,3,No,Male,8
+Not Adopted,short_hair_cat,2,No,Male,1
+Not Adopted,short_hair_cat,0.038356164,No,Male,6
+Not Adopted,short_hair_cat,0.057534247,No,Male,10
+Not Adopted,short_hair_cat,1,Yes,Female,3
+Not Adopted,short_hair_cat,0.082191781,No,Male,9
+Not Adopted,short_hair_cat,6,Yes,Female,10
+Not Adopted,short_hair_cat,0.038356164,No,Male,6
+Not Adopted,short_hair_cat,0.164383562,No,Male,10
+Not Adopted,short_hair_cat,0.038356164,No,Female,4
+Not Adopted,short_hair_cat,8,No,Male,10
+Not Adopted,short_hair_cat,2,No,Male,3
+Not Adopted,short_hair_cat,0.164383562,Yes,Female,9
+Not Adopted,short_hair_cat,12,Yes,Female,4
+Not Adopted,short_hair_cat,0.019178082,No,Male,9
+Not Adopted,short_hair_cat,0.076712329,No,Male,5
+Not Adopted,short_hair_cat,0.076712329,No,Female,9
+Not Adopted,short_hair_cat,0.493150685,No,Male,2
+Not Adopted,short_hair_cat,0.019178082,No,Male,6
+Not Adopted,short_hair_cat,2,Yes,Female,1
+Not Adopted,short_hair_cat,0.164383562,No,Male,9
+Not Adopted,short_hair_cat,1,No,Male,2
+Not Adopted,short_hair_cat,0.246575342,No,Female,12
+Not Adopted,short_hair_cat,0.246575342,No,Female,8
+Not Adopted,short_hair_cat,0.019178082,No,Female,3
+Not Adopted,short_hair_cat,1,Yes,Female,4
+Not Adopted,short_hair_cat,1,No,Male,7
+Not Adopted,short_hair_cat,3,No,Male,6
+Not Adopted,long_hair_cat,1,No,Male,8
+Not Adopted,long_hair_cat,0.328767123,No,Male,7
+Not Adopted,long_hair_cat,3,No,Female,11
+Not Adopted,long_hair_cat,0.328767123,Yes,Female,1
+Not Adopted,long_hair_cat,0.076712329,No,Male,8
+Not Adopted,long_hair_cat,0.410958904,No,Female,1
+Not Adopted,long_hair_cat,1,No,Male,5
+Not Adopted,long_hair_cat,0.019178082,No,Male,5
+Not Adopted,long_hair_cat,0.082191781,No,Male,10
+Not Adopted,long_hair_cat,0.019178082,No,Male,3
+Not Adopted,long_hair_cat,0.493150685,No,Female,1
+Not Adopted,long_hair_cat,0.008219178,No,Male,3
+Not Adopted,large_dog,2,No,Male,4
+Not Adopted,large_dog,2,No,Male,4
+Not Adopted,large_dog,4,No,Female,3
+Not Adopted,large_dog,9,Yes,Female,1
+Not Adopted,large_dog,2,Yes,Female,9
+Not Adopted,large_dog,5,No,Female,12
+Not Adopted,large_dog,3,Yes,Female,9
+Not Adopted,large_dog,2,No,Male,5
+Not Adopted,large_dog,2,Yes,Female,9
+Not Adopted,large_dog,0.082191781,No,Male,11
+Not Adopted,large_dog,8,No,Male,5
+Not Adopted,large_dog,7,No,Male,12
+Not Adopted,large_dog,6,Yes,Female,9
+Not Adopted,large_dog,9,No,Male,2
+Not Adopted,large_dog,1,No,Male,7
+Not Adopted,large_dog,0.164383562,No,Male,1
+Not Adopted,large_dog,2,No,Male,7
+Not Adopted,large_dog,7,No,Male,3
+Not Adopted,large_dog,10,No,Female,6
+Not Adopted,large_dog,4,No,Male,1
+Not Adopted,large_dog,2,No,Male,11
+Not Adopted,large_dog,2,No,Male,12
+Not Adopted,large_dog,7,No,Male,4
+Not Adopted,large_dog,6,No,Male,2
+Not Adopted,large_dog,4,Yes,Female,4
+Not Adopted,large_dog,0.821917808,No,Male,5
+Not Adopted,large_dog,16,Yes,Female,2
+Not Adopted,large_dog,3,Yes,Female,10
+Not Adopted,large_dog,6,Yes,Female,5
+Not Adopted,large_dog,7,Yes,Female,1
+Not Adopted,large_dog,10,No,Male,7
+Not Adopted,large_dog,1,Yes,Female,6
+Not Adopted,large_dog,0.410958904,Yes,Female,3
+Not Adopted,large_dog,12,No,Male,12
+Not Adopted,large_dog,2,Yes,Female,6
+Not Adopted,large_dog,2,No,Female,11
+Not Adopted,large_dog,9,No,Male,5
+Not Adopted,large_dog,4,No,Male,10
+Not Adopted,large_dog,7,No,Male,8
+Not Adopted,large_dog,4,Yes,Female,9
+Not Adopted,large_dog,1,No,Male,3
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,0.082191781,No,Female,5
+Not Adopted,small_dog,0.410958904,Yes,Female,3
+Not Adopted,small_dog,0.657534247,No,Male,11
+Not Adopted,small_dog,10,Yes,Female,2
+Not Adopted,small_dog,0.164383562,Yes,Female,5
+Not Adopted,small_dog,2,Yes,Female,1
+Not Adopted,small_dog,0.164383562,No,Male,1
+Not Adopted,small_dog,10,No,Male,1
+Not Adopted,small_dog,0.739726027,No,Male,10
+Not Adopted,small_dog,14,No,Male,12
+Not Adopted,small_dog,1,No,Female,9
+Not Adopted,small_dog,1,No,Male,6
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,4,No,Male,2
+Not Adopted,small_dog,6,Yes,Female,4
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,3,No,Male,8
+Not Adopted,small_dog,0.575342466,No,Male,3
+Not Adopted,small_dog,0.328767123,No,Male,12
+Not Adopted,small_dog,1,No,Male,2
+Not Adopted,small_dog,1,No,Male,6
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,0.164383562,No,Male,9
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,6,Yes,Female,1
+Not Adopted,small_dog,7,No,Male,3
+Not Adopted,small_dog,4,Yes,Female,2
+Not Adopted,small_dog,8,No,Male,8
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,14,No,Male,12
+Not Adopted,small_dog,1,Yes,Female,7
+Not Adopted,small_dog,4,No,Male,5
+Not Adopted,small_dog,3,No,Male,6
+Not Adopted,small_dog,7,No,Male,5
+Not Adopted,small_dog,12,No,Male,4
+Not Adopted,small_dog,5,Yes,Female,12
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,2,Yes,Female,12
+Not Adopted,small_dog,0.164383562,No,Male,12
+Not Adopted,small_dog,8,Yes,Female,1
+Not Adopted,small_dog,2,No,Male,9
+Not Adopted,small_dog,0.821917808,No,Female,1
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,9,Yes,Female,1
+Not Adopted,small_dog,1,No,Female,6
+Not Adopted,small_dog,3,Yes,Female,3
+Not Adopted,small_dog,12,No,Male,6
+Not Adopted,small_dog,1,No,Male,4
+Not Adopted,small_dog,5,No,Male,7
+Not Adopted,small_dog,13,No,Male,2
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,1,Yes,Female,9
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,3,No,Male,2
+Not Adopted,small_dog,8,No,Male,9
+Not Adopted,small_dog,2,No,Male,1
+Not Adopted,small_dog,8,Yes,Female,3
+Not Adopted,small_dog,4,No,Male,4
+Not Adopted,small_dog,0.076712329,No,Female,11
+Not Adopted,small_dog,0.821917808,No,Male,2
+Not Adopted,small_dog,8,Yes,Female,5
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,2,Yes,Female,1
+Not Adopted,small_dog,5,No,Male,7
+Not Adopted,small_dog,0.493150685,No,Female,10
+Not Adopted,small_dog,3,Yes,Female,1
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,4,Yes,Female,4
+Not Adopted,small_dog,0.082191781,No,Male,3
+Not Adopted,small_dog,1,No,Male,2
+Not Adopted,small_dog,1,No,Male,12
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,5,No,Male,1
+Not Adopted,small_dog,6,No,Female,4
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,3,No,Male,7
+Not Adopted,small_dog,0.904109589,No,Male,9
+Not Adopted,small_dog,0.164383562,No,Male,9
+Not Adopted,small_dog,2,Yes,Female,4
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,16,Yes,Female,5
+Not Adopted,small_dog,0.246575342,No,Male,6
+Not Adopted,small_dog,0.739726027,No,Male,11
+Not Adopted,small_dog,8,No,Male,1
+Not Adopted,small_dog,1,No,Female,3
+Not Adopted,small_dog,2,Yes,Female,1
+Not Adopted,small_dog,3,No,Female,10
+Not Adopted,small_dog,8,No,Male,4
+Not Adopted,small_dog,4,No,Male,3
+Not Adopted,small_dog,8,No,Male,1
+Not Adopted,small_dog,3,Yes,Female,4
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,2,No,Male,4
+Not Adopted,small_dog,0.739726027,No,Male,10
+Not Adopted,small_dog,9,Yes,Female,5
+Not Adopted,small_dog,0.904109589,No,Male,1
+Not Adopted,small_dog,1,Yes,Female,10
+Not Adopted,small_dog,11,Yes,Female,7
+Not Adopted,small_dog,4,Yes,Female,5
+Not Adopted,small_dog,7,Yes,Female,11
+Not Adopted,small_dog,8,No,Male,8
+Not Adopted,small_dog,0.904109589,No,Male,11
+Not Adopted,small_dog,1,No,Female,4
+Not Adopted,small_dog,0.575342466,No,Female,6
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,2,Yes,Female,11
+Not Adopted,small_dog,0.057534247,No,Female,3
+Not Adopted,small_dog,4,No,Male,10
+Not Adopted,small_dog,10,Yes,Female,4
+Not Adopted,small_dog,10,No,Male,1
+Not Adopted,small_dog,2,No,Female,8
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,0.164383562,No,Male,4
+Not Adopted,small_dog,14,No,Male,3
+Not Adopted,small_dog,0.328767123,No,Male,8
+Not Adopted,small_dog,0.002739726,No,Male,10
+Not Adopted,small_dog,8,No,Male,5
+Not Adopted,small_dog,1,Yes,Female,4
+Not Adopted,small_dog,2,No,Male,8
+Not Adopted,small_dog,3,Yes,Female,5
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,3,No,Male,5
+Not Adopted,small_dog,0.657534247,Yes,Female,10
+Not Adopted,small_dog,0.246575342,No,Male,2
+Not Adopted,small_dog,6,No,Male,10
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,3,No,Female,3
+Not Adopted,small_dog,0.328767123,No,Male,2
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,1,No,Male,2
+Not Adopted,small_dog,5,Yes,Female,8
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,3,No,Male,8
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,3,Yes,Female,11
+Not Adopted,small_dog,1,No,Male,4
+Not Adopted,small_dog,4,No,Male,11
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,0.739726027,No,Female,3
+Not Adopted,small_dog,1,Yes,Female,7
+Not Adopted,small_dog,0.002739726,No,Male,5
+Not Adopted,small_dog,5,Yes,Female,8
+Not Adopted,small_dog,2,No,Female,12
+Not Adopted,small_dog,1,No,Male,2
+Not Adopted,small_dog,0.082191781,No,Male,12
+Not Adopted,small_dog,8,No,Male,2
+Not Adopted,small_dog,0.575342466,No,Male,12
+Not Adopted,small_dog,0.739726027,Yes,Female,8
+Not Adopted,small_dog,3,No,Male,5
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,3,No,Male,9
+Not Adopted,small_dog,3,No,Female,8
+Not Adopted,small_dog,0.493150685,No,Male,2
+Not Adopted,small_dog,0.739726027,No,Male,10
+Not Adopted,small_dog,6,No,Male,1
+Not Adopted,small_dog,6,No,Female,11
+Not Adopted,small_dog,0,No,Male,11
+Not Adopted,small_dog,2,No,Female,11
+Not Adopted,small_dog,5,No,Male,3
+Not Adopted,small_dog,0.164383562,No,Female,8
+Not Adopted,small_dog,3,Yes,Female,11
+Not Adopted,small_dog,1,Yes,Female,12
+Not Adopted,small_dog,0.410958904,No,Male,3
+Not Adopted,small_dog,2,Yes,Female,4
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,5,No,Male,3
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,1,Yes,Female,1
+Not Adopted,small_dog,2,Yes,Female,2
+Not Adopted,small_dog,8,No,Male,5
+Not Adopted,small_dog,0.821917808,Yes,Female,11
+Not Adopted,small_dog,7,Yes,Female,3
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,2,No,Male,7
+Not Adopted,small_dog,4,No,Male,3
+Not Adopted,small_dog,5,No,Male,11
+Not Adopted,small_dog,7,No,Male,3
+Not Adopted,small_dog,14,No,Male,2
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,3,No,Male,5
+Not Adopted,small_dog,5,No,Male,5
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,8,No,Male,7
+Not Adopted,small_dog,1,No,Male,12
+Not Adopted,small_dog,4,No,Male,3
+Not Adopted,small_dog,2,No,Female,8
+Not Adopted,small_dog,0.821917808,Yes,Female,1
+Not Adopted,small_dog,2,No,Female,5
+Not Adopted,small_dog,3,Yes,Female,8
+Not Adopted,small_dog,0.057534247,No,Male,2
+Not Adopted,small_dog,1,No,Male,10
+Not Adopted,small_dog,8,Yes,Female,1
+Not Adopted,small_dog,0.904109589,Yes,Female,3
+Not Adopted,small_dog,0.821917808,No,Female,10
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,4,No,Male,12
+Not Adopted,small_dog,2,Yes,Female,11
+Not Adopted,small_dog,10,No,Female,6
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,3,No,Male,8
+Not Adopted,small_dog,4,Yes,Female,9
+Not Adopted,small_dog,0.164383562,Yes,Female,11
+Not Adopted,small_dog,2,No,Male,7
+Not Adopted,small_dog,4,No,Male,1
+Not Adopted,small_dog,3,No,Male,6
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,3,Yes,Female,3
+Not Adopted,small_dog,4,Yes,Female,4
+Not Adopted,small_dog,0.082191781,No,Female,1
+Not Adopted,small_dog,4,Yes,Female,5
+Not Adopted,small_dog,2,Yes,Female,9
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,0.575342466,No,Male,3
+Not Adopted,small_dog,0.821917808,No,Male,11
+Not Adopted,small_dog,0.657534247,No,Male,8
+Not Adopted,small_dog,0.246575342,No,Male,6
+Not Adopted,small_dog,10,Yes,Female,3
+Not Adopted,small_dog,3,No,Female,7
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,0.410958904,No,Male,10
+Not Adopted,small_dog,0.657534247,Yes,Female,4
+Not Adopted,small_dog,7,No,Female,11
+Not Adopted,small_dog,7,No,Male,6
+Not Adopted,small_dog,4,No,Male,7
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,8,No,Female,11
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,0.082191781,No,Male,4
+Not Adopted,small_dog,0.328767123,No,Male,3
+Not Adopted,small_dog,1,No,Female,10
+Not Adopted,small_dog,1,No,Male,3
+Not Adopted,small_dog,2,Yes,Female,7
+Not Adopted,small_dog,0.082191781,No,Male,12
+Not Adopted,small_dog,0.246575342,Yes,Female,11
+Not Adopted,small_dog,0.005479452,No,Male,1
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,8,No,Male,6
+Not Adopted,small_dog,7,Yes,Female,7
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,0.739726027,No,Female,4
+Not Adopted,small_dog,0.575342466,No,Female,5
+Not Adopted,small_dog,0.164383562,Yes,Female,10
+Not Adopted,small_dog,3,Yes,Female,2
+Not Adopted,small_dog,2,Yes,Female,12
+Not Adopted,small_dog,12,No,Male,2
+Not Adopted,small_dog,5,Yes,Female,9
+Not Adopted,small_dog,1,No,Female,12
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,3,Yes,Female,9
+Not Adopted,small_dog,11,No,Male,11
+Not Adopted,small_dog,10,Yes,Female,8
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,4,No,Male,12
+Not Adopted,small_dog,4,No,Male,2
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,9,No,Female,2
+Not Adopted,small_dog,0.082191781,Yes,Female,3
+Not Adopted,small_dog,0.493150685,Yes,Female,9
+Not Adopted,small_dog,4,No,Male,5
+Not Adopted,small_dog,11,No,Male,9
+Not Adopted,small_dog,2,No,Male,3
+Not Adopted,small_dog,0.493150685,No,Male,9
+Not Adopted,small_dog,3,No,Male,6
+Not Adopted,small_dog,0.821917808,Yes,Female,3
+Not Adopted,small_dog,6,Yes,Female,11
+Not Adopted,small_dog,6,Yes,Female,9
+Not Adopted,small_dog,4,Yes,Female,6
+Not Adopted,small_dog,6,No,Male,7
+Not Adopted,small_dog,0.410958904,Yes,Female,7
+Not Adopted,small_dog,3,No,Male,8
+Not Adopted,small_dog,1,No,Male,3
+Not Adopted,small_dog,0.164383562,No,Male,3
+Not Adopted,small_dog,0.821917808,No,Male,2
+Not Adopted,small_dog,1,No,Male,4
+Not Adopted,small_dog,1,No,Female,11
+Not Adopted,small_dog,1,No,Female,8
+Not Adopted,small_dog,10,No,Male,3
+Not Adopted,small_dog,0.821917808,No,Male,1
+Not Adopted,small_dog,6,No,Male,10
+Not Adopted,small_dog,7,Yes,Female,1
+Not Adopted,small_dog,3,No,Female,8
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,0.410958904,Yes,Female,12
+Not Adopted,small_dog,0.246575342,No,Female,9
+Not Adopted,small_dog,9,No,Male,10
+Not Adopted,small_dog,11,No,Male,7
+Not Adopted,small_dog,12,No,Female,2
+Not Adopted,small_dog,0.328767123,No,Male,5
+Not Adopted,small_dog,3,No,Male,11
+Not Adopted,small_dog,4,No,Female,10
+Not Adopted,small_dog,0.493150685,Yes,Female,11
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,2,No,Male,9
+Not Adopted,small_dog,14,No,Male,4
+Not Adopted,small_dog,0.821917808,No,Male,12
+Not Adopted,small_dog,0.410958904,No,Male,3
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,2,No,Male,6
+Not Adopted,small_dog,7,No,Female,1
+Not Adopted,small_dog,0.057534247,No,Female,7
+Not Adopted,small_dog,0.410958904,No,Female,5
+Not Adopted,small_dog,1,No,Male,3
+Not Adopted,small_dog,0.657534247,No,Male,7
+Not Adopted,small_dog,5,No,Male,9
+Not Adopted,small_dog,3,Yes,Female,5
+Not Adopted,small_dog,2,No,Female,10
+Not Adopted,small_dog,1,Yes,Female,1
+Not Adopted,small_dog,8,No,Male,10
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,2,No,Male,4
+Not Adopted,small_dog,1,Yes,Female,3
+Not Adopted,small_dog,1,Yes,Female,2
+Not Adopted,small_dog,1,No,Female,2
+Not Adopted,small_dog,6,Yes,Female,3
+Not Adopted,small_dog,0.493150685,Yes,Female,10
+Not Adopted,small_dog,0.057534247,No,Female,7
+Not Adopted,small_dog,1,Yes,Female,12
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,0.082191781,No,Female,8
+Not Adopted,small_dog,0.164383562,No,Male,3
+Not Adopted,small_dog,0.410958904,No,Female,8
+Not Adopted,small_dog,12,No,Female,10
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,5,No,Male,10
+Not Adopted,small_dog,0.739726027,Yes,Female,11
+Not Adopted,small_dog,0.493150685,No,Male,12
+Not Adopted,small_dog,0.739726027,Yes,Female,1
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,0.493150685,No,Female,5
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,1,No,Female,10
+Not Adopted,small_dog,1,No,Male,12
+Not Adopted,small_dog,0.082191781,No,Male,6
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,0.821917808,No,Male,4
+Not Adopted,small_dog,2,Yes,Female,10
+Not Adopted,small_dog,7,No,Male,4
+Not Adopted,small_dog,15,Yes,Female,3
+Not Adopted,small_dog,0.904109589,No,Female,10
+Not Adopted,small_dog,5,No,Male,11
+Not Adopted,small_dog,4,No,Male,4
+Not Adopted,small_dog,16,No,Male,5
+Not Adopted,small_dog,4,No,Male,5
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,9,No,Male,8
+Not Adopted,small_dog,4,No,Male,6
+Not Adopted,small_dog,0.493150685,No,Male,7
+Not Adopted,small_dog,0.328767123,No,Female,10
+Not Adopted,small_dog,1,No,Female,1
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,5,No,Male,9
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,5,No,Male,8
+Not Adopted,small_dog,2,No,Male,3
+Not Adopted,small_dog,8,No,Male,5
+Not Adopted,small_dog,2,Yes,Female,5
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,1,No,Male,10
+Not Adopted,small_dog,0.164383562,No,Female,6
+Not Adopted,small_dog,0.657534247,No,Female,6
+Not Adopted,small_dog,5,No,Male,5
+Not Adopted,small_dog,0.739726027,No,Male,7
+Not Adopted,small_dog,0.328767123,No,Male,10
+Not Adopted,small_dog,11,No,Male,5
+Not Adopted,small_dog,9,No,Male,8
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,13,Yes,Female,1
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,0.057534247,No,Male,7
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,1,Yes,Female,11
+Not Adopted,small_dog,3,Yes,Female,8
+Not Adopted,small_dog,4,No,Male,11
+Not Adopted,small_dog,0.410958904,No,Female,8
+Not Adopted,small_dog,2,No,Male,6
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,6,No,Male,8
+Not Adopted,small_dog,0.246575342,No,Male,4
+Not Adopted,small_dog,1,No,Female,4
+Not Adopted,small_dog,11,No,Male,12
+Not Adopted,small_dog,0.246575342,No,Male,3
+Not Adopted,small_dog,4,No,Female,9
+Not Adopted,small_dog,0.164383562,No,Female,9
+Not Adopted,small_dog,4,No,Male,4
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,0.493150685,No,Male,1
+Not Adopted,small_dog,4,No,Male,7
+Not Adopted,small_dog,10,Yes,Female,3
+Not Adopted,small_dog,5,No,Female,11
+Not Adopted,small_dog,2,Yes,Female,7
+Not Adopted,small_dog,1,No,Female,10
+Not Adopted,small_dog,3,No,Male,6
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,12,No,Male,4
+Not Adopted,small_dog,1,Yes,Female,11
+Not Adopted,small_dog,3,No,Male,11
+Not Adopted,small_dog,0.821917808,No,Male,2
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,8,Yes,Female,9
+Not Adopted,small_dog,7,No,Male,11
+Not Adopted,small_dog,6,No,Female,1
+Not Adopted,small_dog,9,No,Male,1
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,2,No,Male,1
+Not Adopted,small_dog,2,Yes,Female,12
+Not Adopted,small_dog,9,Yes,Female,5
+Not Adopted,small_dog,2,No,Female,7
+Not Adopted,small_dog,0.821917808,No,Male,5
+Not Adopted,small_dog,10,No,Male,10
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,3,Yes,Female,12
+Not Adopted,small_dog,8,No,Male,8
+Not Adopted,small_dog,8,No,Male,12
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,2,No,Male,9
+Not Adopted,small_dog,4,Yes,Female,10
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,1,Yes,Female,11
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,8,No,Male,5
+Not Adopted,small_dog,2,Yes,Female,9
+Not Adopted,small_dog,0.082191781,No,Male,5
+Not Adopted,small_dog,5,Yes,Female,11
+Not Adopted,small_dog,2,No,Female,9
+Not Adopted,small_dog,5,No,Male,7
+Not Adopted,small_dog,4,No,Male,4
+Not Adopted,small_dog,2,No,Female,10
+Not Adopted,small_dog,8,No,Female,12
+Not Adopted,small_dog,9,No,Male,6
+Not Adopted,small_dog,1,No,Female,12
+Not Adopted,small_dog,4,No,Male,10
+Not Adopted,small_dog,2,Yes,Female,1
+Not Adopted,small_dog,0.082191781,No,Female,8
+Not Adopted,small_dog,2,Yes,Female,10
+Not Adopted,small_dog,4,Yes,Female,12
+Not Adopted,small_dog,2,No,Male,4
+Not Adopted,small_dog,0.410958904,No,Male,7
+Not Adopted,small_dog,8,Yes,Female,12
+Not Adopted,small_dog,7,Yes,Female,5
+Not Adopted,small_dog,3,Yes,Female,12
+Not Adopted,small_dog,10,No,Male,12
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,3,No,Male,10
+Not Adopted,small_dog,0.019178082,No,Male,11
+Not Adopted,small_dog,2,No,Male,8
+Not Adopted,small_dog,1,No,Male,12
+Not Adopted,small_dog,0.164383562,No,Male,2
+Not Adopted,small_dog,4,Yes,Female,6
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,2,Yes,Female,11
+Not Adopted,small_dog,3,Yes,Female,11
+Not Adopted,small_dog,0.038356164,No,Male,6
+Not Adopted,small_dog,1,Yes,Female,9
+Not Adopted,small_dog,1,No,Male,2
+Not Adopted,small_dog,1,No,Female,3
+Not Adopted,small_dog,1,Yes,Female,12
+Not Adopted,small_dog,2,No,Male,3
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,6,Yes,Female,4
+Not Adopted,small_dog,8,No,Male,7
+Not Adopted,small_dog,0.410958904,Yes,Female,7
+Not Adopted,small_dog,1,Yes,Female,3
+Not Adopted,small_dog,5,No,Male,6
+Not Adopted,small_dog,3,Yes,Female,7
+Not Adopted,small_dog,2,No,Female,8
+Not Adopted,small_dog,1,Yes,Female,11
+Not Adopted,small_dog,1,Yes,Female,2
+Not Adopted,small_dog,5,Yes,Female,7
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,7,No,Male,3
+Not Adopted,small_dog,4,No,Female,7
+Not Adopted,small_dog,2,No,Male,7
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,6,No,Male,8
+Not Adopted,small_dog,3,No,Male,6
+Not Adopted,small_dog,0.821917808,No,Male,5
+Not Adopted,small_dog,4,No,Male,10
+Not Adopted,small_dog,0.657534247,Yes,Female,1
+Not Adopted,small_dog,0.038356164,No,Male,5
+Not Adopted,small_dog,0.082191781,No,Female,8
+Not Adopted,small_dog,2,No,Female,1
+Not Adopted,small_dog,6,No,Male,4
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,1,Yes,Female,3
+Not Adopted,small_dog,0.246575342,Yes,Female,12
+Not Adopted,small_dog,13,No,Male,8
+Not Adopted,small_dog,5,No,Male,11
+Not Adopted,small_dog,6,No,Male,2
+Not Adopted,large_dog,12,No,Male,5
+Not Adopted,large_dog,1,No,Female,10
+Not Adopted,large_dog,7,No,Male,2
+Not Adopted,large_dog,2,Yes,Female,4
+Not Adopted,large_dog,3,No,Male,6
+Not Adopted,large_dog,1,No,Male,1
+Not Adopted,large_dog,9,Yes,Female,11
+Not Adopted,large_dog,1,No,Male,4
+Not Adopted,large_dog,5,Yes,Female,8
+Not Adopted,large_dog,4,No,Male,6
+Not Adopted,large_dog,0.328767123,No,Female,10
+Not Adopted,large_dog,0.328767123,Yes,Female,11
+Not Adopted,large_dog,1,No,Female,1
+Not Adopted,large_dog,8,No,Female,10
+Not Adopted,large_dog,12,No,Male,11
+Not Adopted,large_dog,1,No,Male,1
+Not Adopted,large_dog,5,No,Female,7
+Not Adopted,large_dog,12,No,Male,10
+Not Adopted,large_dog,7,Yes,Female,5
+Not Adopted,large_dog,2,No,Female,1
+Not Adopted,large_dog,6,No,Male,1
+Not Adopted,large_dog,1,No,Male,12
+Not Adopted,large_dog,5,No,Male,3
+Not Adopted,large_dog,7,No,Male,8
+Not Adopted,large_dog,1,No,Male,3
+Not Adopted,large_dog,2,Yes,Female,2
+Not Adopted,large_dog,2,Yes,Female,10
+Not Adopted,large_dog,3,No,Female,10
+Not Adopted,large_dog,1,No,Male,10
+Not Adopted,large_dog,3,No,Male,11
+Not Adopted,large_dog,5,No,Male,12
+Not Adopted,large_dog,11,Yes,Female,2
+Not Adopted,large_dog,2,No,Female,6
+Not Adopted,large_dog,2,No,Female,11
+Not Adopted,large_dog,2,No,Male,2
+Not Adopted,large_dog,3,No,Male,1
+Not Adopted,large_dog,2,No,Male,2
+Not Adopted,large_dog,4,Yes,Female,12
+Not Adopted,large_dog,1,No,Male,2
+Not Adopted,large_dog,4,Yes,Female,6
+Not Adopted,large_dog,0.328767123,No,Male,8
+Not Adopted,large_dog,1,No,Male,12
+Not Adopted,large_dog,10,No,Female,4
+Not Adopted,large_dog,0.082191781,No,Male,10
+Not Adopted,large_dog,0.082191781,No,Male,6
+Not Adopted,large_dog,8,No,Male,7
+Not Adopted,large_dog,0.019178082,No,Female,11
+Not Adopted,large_dog,0.328767123,No,Male,5
+Not Adopted,large_dog,6,No,Male,6
+Not Adopted,large_dog,1,No,Female,9
+Not Adopted,large_dog,1,Yes,Female,9
+Not Adopted,large_dog,2,No,Male,10
+Not Adopted,large_dog,3,No,Male,2
+Not Adopted,large_dog,0.082191781,No,Male,9
+Not Adopted,large_dog,7,No,Male,3
+Not Adopted,large_dog,3,No,Male,4
+Not Adopted,large_dog,4,No,Female,5
+Not Adopted,large_dog,6,Yes,Female,6
+Not Adopted,large_dog,4,Yes,Female,8
+Not Adopted,large_dog,2,No,Male,4
+Not Adopted,large_dog,0.493150685,No,Male,8
+Not Adopted,large_dog,1,No,Male,11
+Not Adopted,large_dog,0.164383562,No,Male,9
+Not Adopted,large_dog,2,No,Male,2
+Not Adopted,large_dog,0.164383562,No,Female,6
+Not Adopted,large_dog,1,No,Female,2
+Not Adopted,large_dog,5,No,Female,1
+Not Adopted,large_dog,8,No,Male,9
+Not Adopted,large_dog,1,Yes,Female,1
+Not Adopted,large_dog,2,No,Male,7
+Not Adopted,large_dog,4,No,Male,9
+Not Adopted,large_dog,1,No,Male,4
+Not Adopted,large_dog,1,No,Male,3
+Not Adopted,large_dog,2,Yes,Female,2
+Not Adopted,large_dog,0.164383562,No,Male,6
+Not Adopted,large_dog,4,Yes,Female,9
+Not Adopted,large_dog,16,No,Male,2
+Not Adopted,large_dog,3,Yes,Female,5
+Not Adopted,large_dog,4,Yes,Female,1
+Not Adopted,large_dog,0.575342466,No,Male,11
+Not Adopted,large_dog,1,No,Male,4
+Not Adopted,large_dog,1,No,Male,10
+Not Adopted,large_dog,2,No,Female,6
+Not Adopted,small_dog,2,No,Male,1
+Not Adopted,small_dog,3,No,Male,3
+Not Adopted,small_dog,0.019178082,No,Male,12
+Not Adopted,small_dog,15,No,Male,12
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,2,No,Male,3
+Not Adopted,small_dog,0.328767123,No,Female,8
+Not Adopted,small_dog,1,Yes,Female,12
+Not Adopted,small_dog,5,No,Female,8
+Not Adopted,small_dog,3,No,Male,12
+Not Adopted,small_dog,4,Yes,Female,12
+Not Adopted,small_dog,5,No,Male,10
+Not Adopted,small_dog,5,Yes,Female,10
+Not Adopted,small_dog,2,No,Female,12
+Not Adopted,small_dog,3,No,Male,9
+Not Adopted,small_dog,11,No,Female,5
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,1,Yes,Female,4
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,10,No,Female,10
+Not Adopted,small_dog,1,Yes,Female,10
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,1,No,Male,5
+Not Adopted,small_dog,3,Yes,Female,1
+Not Adopted,small_dog,3,No,Male,10
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,0.821917808,Yes,Female,1
+Not Adopted,small_dog,1,No,Male,9
+Not Adopted,small_dog,10,No,Male,10
+Not Adopted,small_dog,5,Yes,Female,9
+Not Adopted,small_dog,4,Yes,Female,9
+Not Adopted,small_dog,6,No,Male,4
+Not Adopted,small_dog,3,No,Male,7
+Not Adopted,small_dog,0.493150685,No,Male,12
+Not Adopted,small_dog,5,No,Male,1
+Not Adopted,small_dog,9,No,Male,10
+Not Adopted,small_dog,0.493150685,Yes,Female,11
+Not Adopted,small_dog,7,No,Male,11
+Not Adopted,small_dog,2,No,Male,6
+Not Adopted,small_dog,6,No,Male,2
+Not Adopted,small_dog,2,Yes,Female,10
+Not Adopted,small_dog,1,No,Male,4
+Not Adopted,small_dog,0.410958904,No,Male,3
+Not Adopted,small_dog,1,Yes,Female,3
+Not Adopted,small_dog,2,No,Male,10
+Not Adopted,small_dog,3,No,Male,9
+Not Adopted,small_dog,6,No,Male,10
+Not Adopted,small_dog,13,No,Male,11
+Not Adopted,small_dog,2,No,Male,4
+Not Adopted,small_dog,3,Yes,Female,6
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,2,No,Male,5
+Not Adopted,small_dog,1,No,Male,11
+Not Adopted,small_dog,0.328767123,No,Male,5
+Not Adopted,small_dog,8,Yes,Female,11
+Not Adopted,small_dog,0.082191781,No,Male,7
+Not Adopted,small_dog,1,No,Male,10
+Not Adopted,small_dog,2,Yes,Female,4
+Not Adopted,small_dog,1,No,Male,10
+Not Adopted,small_dog,3,No,Female,4
+Not Adopted,small_dog,6,No,Male,11
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,1,Yes,Female,4
+Not Adopted,small_dog,8,Yes,Female,11
+Not Adopted,small_dog,0.657534247,No,Male,6
+Not Adopted,small_dog,0.038356164,No,Male,5
+Not Adopted,small_dog,2,No,Male,8
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,5,No,Male,1
+Not Adopted,small_dog,2,Yes,Female,11
+Not Adopted,small_dog,1,Yes,Female,11
+Not Adopted,small_dog,2,No,Female,8
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,5,No,Male,6
+Not Adopted,small_dog,2,No,Male,7
+Not Adopted,small_dog,1,No,Male,7
+Not Adopted,small_dog,0.082191781,No,Male,5
+Not Adopted,small_dog,1,No,Female,10
+Not Adopted,small_dog,7,No,Male,6
+Not Adopted,small_dog,0.575342466,Yes,Female,2
+Not Adopted,small_dog,4,Yes,Female,11
+Not Adopted,small_dog,3,Yes,Female,2
+Not Adopted,small_dog,2,Yes,Female,3
+Not Adopted,small_dog,0.904109589,No,Male,6
+Not Adopted,small_dog,4,No,Male,9
+Not Adopted,small_dog,3,No,Male,1
+Not Adopted,small_dog,1,No,Male,1
+Not Adopted,small_dog,5,No,Male,2
+Not Adopted,small_dog,1,Yes,Female,12
+Not Adopted,small_dog,2,Yes,Female,12
+Not Adopted,small_dog,0.005479452,No,Male,6
+Not Adopted,small_dog,1,No,Male,3
+Not Adopted,small_dog,0.575342466,Yes,Female,10
+Not Adopted,small_dog,0.164383562,No,Female,2
+Not Adopted,small_dog,3,Yes,Female,11
+Not Adopted,small_dog,0.246575342,No,Female,10
+Not Adopted,small_dog,1,No,Male,8
+Not Adopted,small_dog,6,No,Male,10
+Not Adopted,small_dog,0.082191781,Yes,Female,8
+Not Adopted,small_dog,0.410958904,No,Male,10
+Not Adopted,small_dog,0.164383562,No,Female,12
+Not Adopted,small_dog,0.164383562,No,Female,11
+Not Adopted,small_dog,0.328767123,No,Male,8
+Not Adopted,small_dog,2,No,Male,2
+Not Adopted,small_dog,2,Yes,Female,6
+Not Adopted,small_dog,2,No,Male,3
+Not Adopted,small_dog,8,No,Male,10
+Not Adopted,small_dog,2,No,Male,11
+Not Adopted,small_dog,10,No,Male,6
+Not Adopted,small_dog,0.575342466,No,Male,2
+Not Adopted,small_dog,0.739726027,Yes,Female,4
+Not Adopted,small_dog,2,Yes,Female,11
+Not Adopted,small_dog,2,No,Male,12
+Not Adopted,small_dog,4,No,Male,12
+Not Adopted,small_dog,7,Yes,Female,9
+Not Adopted,small_dog,2,Yes,Female,2
+Not Adopted,small_dog,8,No,Male,11
+Not Adopted,small_dog,0.493150685,No,Male,2
+Not Adopted,small_dog,4,No,Male,8
+Not Adopted,small_dog,2,No,Male,9
+Not Adopted,small_dog,8,No,Male,2
+Not Adopted,small_dog,3,No,Female,6
+Not Adopted,small_dog,0.082191781,No,Male,3
+Not Adopted,small_dog,5,No,Male,10
+Not Adopted,small_dog,1,No,Male,32
+Not Adopted,small_dog,13,No,Male,18
+Not Adopted,small_dog,0.082191781,No,Male,19
+Not Adopted,small_dog,3,Yes,Female,20
+Not Adopted,small_dog,1,Yes,Female,15
+Not Adopted,small_dog,4,No,Male,17
+Not Adopted,small_dog,1,No,Male,21
+Not Adopted,small_dog,0.328767123,Yes,Female,30
+Not Adopted,small_dog,4,No,Male,23
+Not Adopted,small_dog,2,No,Male,17
+Not Adopted,small_dog,3,No,Male,28
+Not Adopted,small_dog,0.493150685,Yes,Female,25
+Not Adopted,small_dog,8,No,Male,31
+Not Adopted,small_dog,0.164383562,No,Male,24
+Not Adopted,small_dog,0.076712329,No,Male,24
+Not Adopted,small_dog,1,Yes,Female,23
+Not Adopted,small_dog,1,No,Male,26
+Not Adopted,small_dog,0.328767123,No,Male,35
+Not Adopted,small_dog,10,Yes,Female,29
+Not Adopted,small_dog,0.246575342,No,Female,34
+Not Adopted,small_dog,2,Yes,Female,17
+Not Adopted,small_dog,8,No,Male,30
+Not Adopted,small_dog,10,Yes,Female,16
+Not Adopted,small_dog,1,No,Male,33
+Not Adopted,small_dog,0.657534247,No,Male,20
+Not Adopted,small_dog,8,No,Male,28
+Not Adopted,small_dog,0.328767123,No,Female,33
+Not Adopted,small_dog,10,No,Male,23
+Not Adopted,small_dog,4,No,Male,17
+Not Adopted,small_dog,0.739726027,Yes,Female,34
+Not Adopted,small_dog,0.019178082,No,Male,31
+Not Adopted,small_dog,2,Yes,Female,26
+Not Adopted,small_dog,0.575342466,No,Male,34
+Not Adopted,small_dog,14,No,Male,18
+Not Adopted,small_dog,0.057534247,No,Female,23
+Not Adopted,small_dog,6,Yes,Female,15
+Not Adopted,small_dog,2,No,Female,33
+Not Adopted,small_dog,2,No,Male,27
+Not Adopted,small_dog,6,No,Male,29
+Not Adopted,small_dog,0.328767123,No,Female,19
+Not Adopted,small_dog,2,Yes,Female,24
+Not Adopted,small_dog,2,No,Male,26
+Not Adopted,small_dog,1,Yes,Female,31
+Not Adopted,small_dog,10,No,Female,15
+Not Adopted,small_dog,1,No,Male,16
+Not Adopted,small_dog,5,No,Male,25
+Not Adopted,small_dog,1,No,Male,26
+Not Adopted,small_dog,3,Yes,Female,21
+Not Adopted,small_dog,1,Yes,Female,25
+Not Adopted,small_dog,1,Yes,Female,35
+Not Adopted,small_dog,2,No,Male,19
+Not Adopted,small_dog,0.164383562,Yes,Female,16
+Not Adopted,small_dog,2,No,Male,17
+Not Adopted,small_dog,5,Yes,Female,29
+Not Adopted,small_dog,0.082191781,No,Male,30
+Not Adopted,small_dog,2,Yes,Female,34
+Not Adopted,small_dog,6,No,Male,27
+Not Adopted,small_dog,0.076712329,No,Female,22
+Not Adopted,small_dog,0.493150685,No,Male,16
+Not Adopted,small_dog,1,Yes,Female,34
+Not Adopted,small_dog,1,No,Female,32
+Not Adopted,small_dog,7,No,Male,28
+Not Adopted,small_dog,1,No,Male,15
+Not Adopted,small_dog,0.082191781,No,Female,15
+Not Adopted,small_dog,0.904109589,No,Male,27
+Not Adopted,small_dog,10,No,Male,15
+Not Adopted,small_dog,2,Yes,Female,27
+Not Adopted,small_dog,0.575342466,Yes,Female,32
+Not Adopted,small_dog,10,Yes,Female,23
+Not Adopted,small_dog,2,No,Male,31
+Not Adopted,small_dog,2,Yes,Female,32
+Not Adopted,small_dog,1,No,Male,29
+Not Adopted,small_dog,0.821917808,No,Male,26
+Not Adopted,small_dog,1,Yes,Female,18
+Not Adopted,small_dog,2,Yes,Female,23
+Not Adopted,small_dog,4,No,Male,22
+Not Adopted,small_dog,5,Yes,Female,30
+Not Adopted,small_dog,0.164383562,Yes,Female,16
+Not Adopted,small_dog,10,No,Male,34
+Not Adopted,small_dog,6,No,Male,32
+Not Adopted,small_dog,5,No,Male,16
+Not Adopted,small_dog,5,No,Male,26
+Not Adopted,small_dog,0.246575342,No,Male,25
+Not Adopted,small_dog,1,No,Male,29
+Not Adopted,small_dog,0.575342466,No,Male,33
+Not Adopted,small_dog,2,No,Female,32
+Not Adopted,small_dog,0.005479452,No,Male,29
+Not Adopted,small_dog,0.904109589,No,Male,26
+Not Adopted,small_dog,2,Yes,Female,22
+Not Adopted,small_dog,3,No,Male,17
+Not Adopted,small_dog,0.493150685,Yes,Female,26
+Not Adopted,small_dog,1,No,Female,33
+Not Adopted,small_dog,0.657534247,No,Male,32
+Not Adopted,small_dog,2,No,Male,23
+Not Adopted,small_dog,0.493150685,No,Male,21
+Not Adopted,small_dog,3,No,Male,33
+Not Adopted,small_dog,11,No,Male,20
+Not Adopted,small_dog,11,No,Female,16
+Not Adopted,small_dog,1,No,Male,30
+Not Adopted,small_dog,5,Yes,Female,23
+Not Adopted,small_dog,8,Yes,Female,18
+Not Adopted,small_dog,3,No,Male,16
+Not Adopted,small_dog,10,No,Male,27
+Not Adopted,small_dog,0.328767123,No,Male,23
+Not Adopted,small_dog,3,No,Male,19
+Not Adopted,small_dog,2,No,Male,33
+Not Adopted,small_dog,3,No,Male,24
+Not Adopted,small_dog,1,Yes,Female,30
+Not Adopted,small_dog,2,No,Male,27
+Not Adopted,small_dog,2,No,Male,32
+Not Adopted,small_dog,3,Yes,Female,19
+Not Adopted,small_dog,0.328767123,No,Male,35
+Not Adopted,small_dog,2,Yes,Female,25
+Not Adopted,small_dog,0.057534247,No,Male,22
+Not Adopted,small_dog,0.328767123,No,Male,31
+Not Adopted,small_dog,0.164383562,No,Male,16
+Not Adopted,small_dog,8,Yes,Female,23
+Not Adopted,small_dog,3,No,Male,35
+Not Adopted,small_dog,12,No,Male,28
+Not Adopted,small_dog,2,Yes,Female,23
+Not Adopted,small_dog,2,No,Male,31
+Not Adopted,small_dog,6,Yes,Female,35
+Not Adopted,small_dog,9,No,Male,32
+Not Adopted,small_dog,5,No,Male,27
+Not Adopted,small_dog,0.164383562,No,Female,29
+Not Adopted,small_dog,2,Yes,Female,27
+Not Adopted,small_dog,1,No,Female,18
+Not Adopted,small_dog,5,No,Male,31
+Not Adopted,small_dog,6,No,Male,34
+Not Adopted,small_dog,0.164383562,No,Male,19
+Not Adopted,small_dog,6,No,Male,31
+Not Adopted,small_dog,14,Yes,Female,22
+Not Adopted,small_dog,4,No,Male,22
+Not Adopted,small_dog,0.164383562,No,Male,26
+Not Adopted,small_dog,5,Yes,Female,21
+Not Adopted,small_dog,8,Yes,Female,20
+Not Adopted,small_dog,0.019178082,No,Female,27
+Not Adopted,small_dog,0.575342466,Yes,Female,16
+Not Adopted,small_dog,2,Yes,Female,15
+Not Adopted,small_dog,0.328767123,No,Female,18
+Not Adopted,small_dog,1,No,Male,22
+Not Adopted,small_dog,0.082191781,No,Male,23
+Not Adopted,small_dog,0.493150685,No,Male,26
+Not Adopted,small_dog,1,No,Male,29
+Not Adopted,small_dog,2,Yes,Female,23
+Not Adopted,small_dog,1,No,Male,20
+Not Adopted,small_dog,2,No,Male,17
+Not Adopted,small_dog,3,No,Male,23
+Not Adopted,small_dog,3,No,Male,32
+Not Adopted,small_dog,0.164383562,No,Male,25
+Not Adopted,small_dog,2,No,Male,18
+Not Adopted,small_dog,3,Yes,Female,23
+Not Adopted,small_dog,2,No,Male,21
+Not Adopted,small_dog,2,No,Male,31
+Not Adopted,small_dog,0.076712329,No,Male,20
+Not Adopted,small_dog,0.164383562,Yes,Female,25
+Not Adopted,small_dog,4,Yes,Female,29
+Not Adopted,small_dog,0.076712329,No,Male,20
+Not Adopted,small_dog,2,No,Male,24
+Not Adopted,small_dog,1,No,Male,30
+Not Adopted,small_dog,3,No,Male,16
+Not Adopted,small_dog,2,Yes,Female,17
+Not Adopted,small_dog,10,No,Female,26
+Not Adopted,small_dog,0.575342466,No,Male,20
+Not Adopted,small_dog,1,No,Male,18
+Not Adopted,small_dog,1,No,Male,24
+Not Adopted,small_dog,2,Yes,Female,27
+Not Adopted,small_dog,2,Yes,Female,29
+Not Adopted,small_dog,1,Yes,Female,24
+Not Adopted,small_dog,8,No,Male,17
+Not Adopted,small_dog,3,No,Male,16
+Not Adopted,small_dog,6,Yes,Female,21
+Not Adopted,small_dog,0,No,Male,32
+Not Adopted,small_dog,1,No,Male,28
+Not Adopted,small_dog,10,No,Male,26
+Not Adopted,small_dog,4,No,Male,26
+Not Adopted,small_dog,1,Yes,Female,23
+Not Adopted,small_dog,1,No,Male,22
+Not Adopted,small_dog,0.657534247,Yes,Female,28
+Not Adopted,small_dog,6,No,Male,29
+Not Adopted,small_dog,4,No,Male,16
+Not Adopted,small_dog,1,No,Male,25
+Not Adopted,small_dog,7,No,Female,22
+Not Adopted,small_dog,4,No,Male,22
+Not Adopted,small_dog,6,Yes,Female,19
+Not Adopted,small_dog,1,No,Male,19
+Not Adopted,small_dog,7,No,Male,31
+Not Adopted,small_dog,8,No,Male,24
+Not Adopted,small_dog,6,Yes,Female,31
+Not Adopted,small_dog,0.657534247,No,Male,34
+Not Adopted,small_dog,7,No,Male,18
+Not Adopted,small_dog,3,No,Male,26
+Not Adopted,small_dog,2,Yes,Female,45
+Not Adopted,small_dog,2,No,Male,25
+Not Adopted,small_dog,3,Yes,Female,45
+Not Adopted,small_dog,15,Yes,Female,31
